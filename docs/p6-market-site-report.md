@@ -1,70 +1,70 @@
-# Hycarfilter Phase 6 — market.hycarfilter 行业报告层交付报告
+# Hycarfilter Phase 6 — market.hycarfilter Industry Report Layer Delivery Report
 
-> 产出日期：2026-10-25 ｜ 作者：B2B 行业研究员 + 出口市场分析编辑（小筑 ✍️）
-> 仓库：`market.hycarfilter`（MkDocs · 行业报告/出口情报）｜ 依据：`docs/hycarfilter-p1-inventory-architecture.md` §2.4 + data 站成果 `data.hycarfilter/data/products.json` + tech 站成果
+> Production date: 2026-10-25 | Author: B2B industry researcher + export market analysis editor (Xiaozhu ✍️)
+> Repository: `market.hycarfilter` (MkDocs · industry report/export intelligence) | Basis: `docs/hycarfilter-p1-inventory-architecture.md` §2.4 + data site deliverables `data.hycarfilter/data/products.json` + tech site deliverables
 
 ---
 
-## 1. 交付概览
+## 1. Delivery overview
 
-MkDocs Material 行业报告子站上线，定位「被检索、被引用的行业报告层」——**与主站营销零重复、与 data 站产品数值、tech 站工艺标准不重叠**（market=行业层面，data=产品数值，tech=工艺标准）。全站中文原创撰写，聚焦「行业概览 / 区域市场报告 / 行业趋势 / 采购指南 / 行业数据参考」五大板块。
+The MkDocs Material industry report sub-site is online, positioned as "the searched and cited industry report layer" — **zero overlap with the main site's marketing, and no overlap with the data site's product values or the tech site's process standards** (market = industry layer, data = product values, tech = process standards). The entire site was originally authored in Chinese, focused on five sections: "industry overview / regional market reports / industry trends / purchasing guide / industry data reference".
 
-## 2. 站点规模（20 内容页 + 404）
+## 2. Site scale (20 content pages + 404)
 
-| 板块 | 页数 | 内容 |
+| Section | Pages | Content |
 |---|---|---|
-| 首页 | 1 | 定位 / 四层互链 / 来源性质标注规范 / 数据一致性声明 |
-| 行业概览 | 4 | 概览 · 全球市场规模与格局 · 中国滤清器产业集群（清河） · 供应链结构（OEM/AM） |
-| 区域市场报告 | 6 | 区域总览 · 欧洲 · 中东 · 东南亚 · 拉美 · 非洲（每篇五段：需求特征/进口渠道/竞争格局/采购者决策因素/市场进入建议） |
-| 行业信息与趋势 | 5 | 趋势总览 · 售后 vs OEM · 电动化影响 · 电商渠道 · 反倾销与贸易合规 |
-| 采购指南 | 3 | 总览 · 出口采购全流程（六步） · 常见采购误区（八误区） |
-| 行业数据参考表 | 1 | 市场规模区间/HS 编码/效率档位/出口字段/认证框架汇总 |
-| **合计** | **20** | （+ 404 = 21 HTML） |
+| Home | 1 | Positioning / four-layer interlinking / source attribution labeling standard / data-consistency statement |
+| Industry Overview | 4 | Overview · Global Market Size and Landscape · China's Filter Industry Cluster (Qinghe) · Supply Chain Structure (OEM/AM) |
+| Regional Market Reports | 6 | Regional overview · Europe · Middle East · Southeast Asia · Latin America · Africa (each with five parts: demand characteristics/import channels/competitive landscape/buyer decision factors/market entry recommendations) |
+| Industry Trends | 5 | Trends overview · Aftermarket vs OEM · Electrification impact · E-commerce channels · Anti-dumping and trade compliance |
+| Purchasing Guide | 3 | Overview · Full export procurement flow (six steps) · Common purchasing pitfalls (eight pitfalls) |
+| Industry Data Reference | 1 | Market size ranges/HS codes/efficiency grades/export fields/certification framework summary |
+| **Total** | **20** | (+ 404 = 21 HTML) |
 
-**区域报告规模**：5 篇深度报告，每篇统一五段结构（市场需求特征 · 进口渠道结构 · 竞争格局 · 采购者决策因素 · 市场进入建议[原创主观观点段]），篇均约 4–5 小节、含数据引用与编辑观点署名。
+**Regional report scale**: 5 in-depth reports, each with a uniform five-part structure (market demand characteristics · import channel structure · competitive landscape · buyer decision factors · market entry recommendations [original subjective opinion section]), averaging about 4–5 subsections each, containing data citations and editor opinion attribution.
 
-**采购指南节数**：2 篇正文——「出口采购全流程」6 步（询价/样单/验厂/验货/物流/清关）+「常见采购误区」8 误区；另设总览页 1。
+**Purchasing guide article count**: 2 body articles — "Full Export Procurement Flow" in 6 steps (inquiry/sample order/factory audit/inspection/logistics/customs clearance) + "Common Purchasing Pitfalls" in 8 pitfalls; plus 1 overview page.
 
-## 3. 来源性质分层执行
+## 3. Source attribution layering execution
 
-全站统一四态标注，每页顶部 note 声明 + 正文行内标签：
+The whole site uses a uniform four-state labeling, with a note declaration at the top of each page + inline tags in the body:
 
-- **[行业常识]** —— 行业通用做法/公开共识；
-- **[框架参考]** —— 认证/准入/合规框架（EAC/GCC/INMETRO/CE/REACH/RoHS），**不构成认证或法律结论**；
-- **[数据引用]** —— 引用 data 站 canonical 数据集同值（HS 编码/效率档位/认证字段/目标市场）；
-- **[分析判断]** —— 研究员原创主观判断，署名「小筑 ✍️」。
+- **[Industry Knowledge]** — common industry practices / public consensus;
+- **[Framework Reference]** — certification/market entry/compliance frameworks (EAC/GCC/INMETRO/CE/REACH/RoHS), **not constituting certification or legal conclusions**;
+- **[Data Citation]** — citing values identical to the data site's canonical dataset (HS codes/efficiency grades/certification fields/target markets);
+- **[Analytical Judgment]** — the researcher's original subjective judgment, attributed to "Xiaozhu ✍️".
 
-**估算性数据显式标注**：市场规模/增速区间一律标「**估算参考 / for reference only**」，非权威统计，仅供量级参考。反倾销/贸易合规篇单设「不提供法律意见」声明。
+**Estimated data is explicitly marked**: market size/growth rate ranges are uniformly marked "**estimated reference / for reference only**", not authoritative statistics, only for order-of-magnitude reference. The anti-dumping/trade compliance article separately sets a "no legal advice provided" statement.
 
-## 4. 数据一致性核对（0 冲突）
+## 4. Data consistency check (0 conflicts)
 
-逐项与 data 站 `products.json`（v0.1.0）核对一致：
+Checked item by item against the data site's `products.json` (v0.1.0) for consistency:
 
-- **HS 编码**：空气滤/空调滤 8421310000 · 机油滤/燃油滤 8421230000 · 雨刮 8512400000 · 变速箱滤网 8708409990 · LED 车灯 8512209000；
-- **效率档位**：空滤 99.0%–99.6% · 机滤 90–95%@20um · 燃油滤 95–97%@10um · 空调滤 95%–99.97%H13 · 变速箱滤网 90%@40um；
-- **出口字段**：MOQ 200/300/500/1000 · 交期 15/18/20/22/25 天 · 认证 ISO 9001/IATF 16949/CE/RoHS · 目标市场 Europe/Middle East/Russia/Southeast Asia/South America/North America/Africa；
-- **品类划分**：7 品类（空气滤/空调滤/机油滤/燃油滤/雨刮/变速箱滤网/LED 车灯）与 data 站同值；
-- **品牌/产地**：hycarfilter（河北红影汽车配件，since 2013，清河县）与 data 站首页一致。
+- **HS codes**: air filter/cabin filter 8421310000 · oil filter/fuel filter 8421230000 · wiper blade 8512400000 · transmission filter screen 8708409990 · LED lights 8512209000;
+- **Efficiency grades**: air filter 99.0%–99.6% · oil filter 90–95%@20um · fuel filter 95–97%@10um · cabin filter 95%–99.97%H13 · transmission filter screen 90%@40um;
+- **Export fields**: MOQ 200/300/500/1000 · lead time 15/18/20/22/25 days · certification ISO 9001/IATF 16949/CE/RoHS · target markets Europe/Middle East/Russia/Southeast Asia/South America/North America/Africa;
+- **Category division**: 7 categories (air filter/cabin filter/oil filter/fuel filter/wiper blade/transmission filter screen/LED lights) identical in value to the data site;
+- **Brand/origin**: hycarfilter (Hebei Hongying Automotive Parts, since 2013, Qinghe County) consistent with the data site homepage.
 
-**不声称持证**：认证类一律「标准框架/准入框架」措辞，未声称持有任何认证；**未编造来源名称**——来源性质分层（行业常识/框架参考/数据引用/分析判断），不虚构引用。
+**No claimed certification**: certification items uniformly use "standard framework/market entry framework" wording, with no claim of holding any certification; **no fabricated source names** — source attribution layering (industry knowledge/framework reference/data citation/analytical judgment) with no fictitious citations.
 
 ## 5. build / commit / push
 
-- **build**：`mkdocs build` ✅ 20 内容页 + 404，0.66s，Material 主题（language=zh，deep orange 配色），0 内容 WARNING / 0 ERROR。
-- **commit**：见下方（`p6-market-*` 标记）。
-- **push**：origin/main。
-- **同步**：与 data/tech 站数值 0 冲突（逐项核对一致）。
+- **build**: `mkdocs build` ✅ 20 content pages + 404, 0.66s, Material theme (language=zh, deep orange color scheme), 0 content WARNING / 0 ERROR.
+- **commit**: see below (`p6-market-*` marker).
+- **push**: origin/main.
+- **sync**: 0 conflicts with data/tech site values (checked item by item, consistent).
 
-## 6. 中文紧凑报告
+## 6. Chinese compact report
 
-**站点规模**：20 内容页 = 首页 1 · 行业概览 4 · 区域市场报告 6 · 行业趋势 5 · 采购指南 3 · 数据参考表 1。
+**Site scale**: 20 content pages = Home 1 · Industry Overview 4 · Regional Market Reports 6 · Industry Trends 5 · Purchasing Guide 3 · Data Reference 1.
 
-**区域报告规模**：5 篇深度报告（欧洲/中东/东南亚/拉美/非洲），每篇五段结构（需求特征/进口渠道/竞争格局/采购者决策因素/市场进入建议[原创观点段]）。
+**Regional report scale**: 5 in-depth reports (Europe/Middle East/Southeast Asia/Latin America/Africa), each with a five-part structure (demand characteristics/import channels/competitive landscape/buyer decision factors/market entry recommendations [original opinion section]).
 
-**采购指南节数**：2 篇正文（全流程 6 步 + 常见误区 8 条）+ 1 总览。
+**Purchasing guide article count**: 2 body articles (full flow 6 steps + common pitfalls 8 items) + 1 overview.
 
-**来源性质分层执行**：四态标注（行业常识/框架参考/数据引用/分析判断）全站统一，每页 note 声明 + 行内标签；估算数据显式「for reference only」；不声称持证、不编造来源名称。
+**Source attribution layering execution**: four-state labeling (industry knowledge/framework reference/data citation/analytical judgment) uniform across the whole site, note declaration per page + inline tags; estimated data explicitly "for reference only"; no claimed certification, no fabricated source names.
 
-**build**：mkdocs build 20 页全绿，0 内容警告。**commit**：`p6-market-*`。**push**：origin/main。**同步**：0/0。
+**build**: mkdocs build 20 pages all green, 0 content warnings. **commit**: `p6-market-*`. **push**: origin/main. **sync**: 0/0.
 
-**报告路径**：`docs/p6-market-site-report.md`（本文档）。
+**Report path**: `docs/p6-market-site-report.md` (this document).

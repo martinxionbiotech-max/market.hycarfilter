@@ -1,96 +1,96 @@
-# 出口采购全流程
+# Full Export Procurement Flow
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 清关/物流框架介绍，**不构成法律或合规结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。回链：[data 出口装箱](https://data.hycarfilter.com/crossref/export-packing/) · [tech 出口质检](https://tech.hycarfilter.com/qc/export-inspection/)。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to customs clearance/logistics frameworks, **not constituting legal or compliance conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Backlinks: [data export packing](https://data.hycarfilter.com/crossref/export-packing/) · [tech export inspection](https://tech.hycarfilter.com/qc/export-inspection/).
 
-滤清器出口采购，标准流程分六步：**询价 → 样单 → 验厂 → 验货 → 物流 → 清关**。每一步的「完成标准」如下。
+For filter export procurement, the standard flow has six steps: **inquiry → sample order → factory audit → inspection → logistics → customs clearance**. The "completion standard" of each step is as follows.
 
-## 一、询价（RFQ / Inquiry）
+## 1. Inquiry (RFQ / Inquiry)
 
-**[行业常识]** 采购者向供应商发出询价，需给出关键参数，否则报价无意义：
+**[Industry Knowledge]** When a buyer sends an inquiry to a supplier, they need to provide key parameters, otherwise the quote is meaningless:
 
-- **选型信息**：品类、OE 对照号、适配车型、规格（尺寸/效率/材质）；
-- **数量与 MOQ**：起订量、批量阶梯；
-- **认证要求**：目标市场准入（EAC/GCC/INMETRO 等）+ 可选体系（ISO 9001/IATF 16949）；
-- **包装与交期**：内盒/外箱、交期、贸易条款（FOB/CIF 等）。
+- **Selection information**: category, OE cross-reference numbers, fitment models, specs (dimensions/efficiency/material);
+- **Quantity and MOQ**: minimum order quantity, quantity tiers;
+- **Certification requirements**: target-market entry (EAC/GCC/INMETRO etc.) + optional systems (ISO 9001/IATF 16949);
+- **Packaging and lead time**: inner box/outer carton, lead time, trade terms (FOB/CIF etc.).
 
-**[数据引用]** 询价所需的规格参数，以 [data.hycarfilter](https://data.hycarfilter.com) 的 canonical 数据集为准（型号/尺寸/效率/材质/OE 对照/包装/MOQ/交期/认证/HS Code）。
+**[Data Citation]** The spec parameters needed for inquiry are subject to the canonical dataset of [data.hycarfilter](https://data.hycarfilter.com) (model/dimensions/efficiency/material/OE cross-reference/packaging/MOQ/lead time/certification/HS Code).
 
-**[分析判断]** **报价单的质量直接反映供应商的专业度**——一份写清「效率口径、OE 对照、包装、MOQ、交期、认证」的报价单，比一句「价格好说」可信得多。采购者应**优先筛选报价单规范完整的供应商**。
+**[Analytical Judgment]** **The quality of a quote directly reflects the supplier's professionalism** — a quote that clearly states "efficiency scope, OE cross-reference, packaging, MOQ, lead time, certification" is far more credible than a sentence like "price is negotiable". Buyers should **prioritize filtering suppliers with complete, standardized quotes**.
 
-## 二、样单（Sample Order）
+## 2. Sample Order
 
-**[行业常识]** 批量下单前，先下样单验证「**实物 vs 描述是否一致**」：
+**[Industry Knowledge]** Before bulk ordering, place a sample order first to verify "**whether the physical item matches the description**":
 
-- 样品确认尺寸、材质、效率、OE 对照适配；
-- 确认包装、标签、品牌印字（OEM/ODM）；
-- 样单通常小批量、按样品价或加急价。
+- Confirm dimensions, material, efficiency, and OE cross-reference fitment on the sample;
+- Confirm packaging, labels, and brand printing (OEM/ODM);
+- Sample orders are usually small-batch, priced at sample or expedited rates.
 
-**[分析判断]** **样单是采购流程里「性价比最高」的一步**——花小钱，提前发现「描述与实物不符」的重大问题。**跳过样单直接下大单，是新手采购最贵的错误之一。**
+**[Analytical Judgment]** **The sample order is the "most cost-effective" step in the procurement flow** — spend a little money to catch major "description vs physical item" mismatches early. **Skipping the sample order and going straight to a large order is one of the most expensive mistakes a novice buyer can make.**
 
-## 三、验厂（Factory Audit）
+## 3. Factory Audit
 
-**[行业常识]** 验厂验证「**供应商是不是真工厂、有没有稳定产能与品控**」：
+**[Industry Knowledge]** A factory audit verifies "**whether the supplier is a real factory and has stable capacity and quality control**":
 
-- 看生产线（折纸机、注胶、固化、旋装总装）；
-- 看滤纸/原材料库存（判断自产 vs 外购）；
-- 看 QC 设备与检测记录（气密性、爆破、旁通阀标定）；
-- 看产能与交期承诺是否匹配。
+- Look at the production line (folding machine, glue injection, curing, spin-on assembly);
+- Look at filter paper/raw material inventory (to judge self-produced vs outsourced);
+- Look at QC equipment and inspection records (air-tightness, burst, bypass valve calibration);
+- Look at whether capacity and lead-time promises match.
 
-**[分析判断]** **「贸易商冒充工厂」在滤清器行业很常见**。验厂看三样就能识别：**生产线在不在跑、滤纸库存足不足、QC 设备有没有在用**。这三样没有，报价再低也要警惕。
+**[Analytical Judgment]** **"Trading companies posing as factories" are very common in the filter industry.** A factory audit needs to look at only three things to identify them: **whether the production line is running, whether the filter paper inventory is sufficient, and whether the QC equipment is in use**. If these three are absent, be wary no matter how low the quote.
 
-## 四、验货（Inspection）
+## 4. Inspection
 
-**[行业常识]** 出货前/装运前验货，按 AQL 抽检，重点验：
+**[Industry Knowledge]** Before shipping/pre-shipment inspection, sample per AQL, with key checks on:
 
-- 尺寸与 OE 对照适配；
-- 效率/材质（对照 spec）；
-- 包装完整性、标签、装箱数量；
-- 密封圈回弹、止回阀/旁通阀（机滤）。
+- Dimensions and OE cross-reference fitment;
+- Efficiency/material (against spec);
+- Packaging integrity, labels, and carton quantities;
+- Seal ring rebound, check valve/bypass valve (oil filters).
 
-**[数据引用]** 检验项与判定标准可参考 [tech 站「出货与出口质检 (OQC)」](https://tech.hycarfilter.com/qc/export-inspection/)；包装/装箱量以 [data 站「出口装箱数据」](https://data.hycarfilter.com/crossref/export-packing/) 为准。
+**[Data Citation]** Inspection items and judgment standards can refer to the [tech site's "Shipping and Export Inspection (OQC)"](https://tech.hycarfilter.com/qc/export-inspection/); packaging/carton quantities are subject to the [data site's "Export Packing Data"](https://data.hycarfilter.com/crossref/export-packing/).
 
-**[分析判断]** **验货要「第三方 + 出货前」**：货上船了再验，发现问题的补救成本高得多。关键品类（机滤）应**加验密封与旁通阀**，这两项是中东/俄区退货的高发点。
+**[Analytical Judgment]** **Inspection must be "third-party + pre-shipment"**: once the goods are on the ship, the remediation cost of finding problems is far higher. For key categories (oil filters), **add seal and bypass valve checks** — these two are high-frequency return points in the Middle East/Russia region.
 
-## 五、物流（Logistics）
+## 5. Logistics
 
-**[行业常识]** 滤清器是「**体积货、重量轻**」，物流以海运为主：
+**[Industry Knowledge]** Filters are "**bulky goods, light weight**", and logistics is mainly ocean freight:
 
-- 轻货装箱**以体积为约束**（非重量约束）；
-- 托盘规格、装柜量影响单件运费；
-- 防潮（干燥剂/VCI/隔潮托盘）是跨洋运输的关键。
+- For light cargo, container loading **is constrained by volume** (not weight);
+- Pallet specs and container-load quantities affect per-unit freight;
+- Moisture protection (desiccant/VCI/moisture-barrier pallets) is key for transoceanic transport.
 
-**[数据引用]** 托盘/40HQ 装箱量估算，以 [data 站「出口装箱数据」](https://data.hycarfilter.com/crossref/export-packing/) 的估算为准（**估算参考 / for reference only**），权威值为内盒/外箱/装箱量/净重。
+**[Data Citation]** Pallet/40HQ loading quantity estimates are subject to the estimates in the [data site's "Export Packing Data"](https://data.hycarfilter.com/crossref/export-packing/) (**estimated reference / for reference only**), with the authoritative values being inner box/outer carton/loading quantity/net weight.
 
-**[分析判断]** **物流成本是滤清器出口利润的隐形杀手**——轻货按体积计费，装箱密度差 10%，单件运费可能差 10%–20%。**下单前让供应商给出装箱方案，是省钱的必修课。**
+**[Analytical Judgment]** **Logistics cost is the invisible killer of filter export profits** — light cargo is billed by volume, and a 10% difference in loading density can mean a 10%–20% difference in per-unit freight. **Asking the supplier for a loading plan before ordering is a required lesson in saving money.**
 
-## 六、清关（Customs Clearance）
+## 6. Customs Clearance
 
-**[行业常识]** 清关需准备：商业发票、装箱单、提单、原产地证明、认证文件（视目标国）。
+**[Industry Knowledge]** Customs clearance requires: commercial invoice, packing list, bill of lading, certificate of origin, and certification documents (depending on the target country).
 
-- **HS 归类正确**是清关的地基（滤清器 HS 编码见下）；
-- 认证文件（EAC/GCC/INMETRO 等）视目标国要求；
-- 原产地证明影响关税待遇。
+- **Correct HS classification** is the foundation of customs clearance (see filter HS codes below);
+- Certification documents (EAC/GCC/INMETRO etc.) depend on the target country's requirements;
+- The certificate of origin affects tariff treatment.
 
-**[数据引用]** 滤清器主要 HS 编码：空气滤/空调滤 **8421310000**、机油滤/燃油滤 **8421230000**、雨刮 **8512400000**、变速箱滤网 **8708409990**、LED 车灯 **8512209000**——与 [data.hycarfilter](https://data.hycarfilter.com) 同值。
+**[Data Citation]** The main HS codes for filters: air filter/cabin filter **8421310000**, oil filter/fuel filter **8421230000**, wiper blade **8512400000**, transmission filter screen **8708409990**, LED lights **8512209000** — identical in value to [data.hycarfilter](https://data.hycarfilter.com).
 
-**[框架参考]** 清关涉及的法律与合规要求以目标国现行法规为准，**本文为常识框架，不构成法律或合规结论**；具体清关应咨询专业报关行。
+**[Framework Reference]** The legal and compliance requirements involved in customs clearance are subject to the target country's current regulations; **this article is a common-knowledge framework, not a legal or compliance conclusion**; for specific customs clearance, consult a professional customs broker.
 
-## 七、六步流程小结
+## 7. Summary of the six-step flow
 
-**[分析判断]** 六步流程的本质，是**在「付大钱」之前，用「小钱 + 时间」把风险验证掉**：
+**[Analytical Judgment]** The essence of the six-step flow is to **use "small money + time" to verify away risks before "paying big money"**:
 
-| 步骤 | 验证什么 | 跳过代价 |
+| Step | What it verifies | Cost of skipping |
 |---|---|---|
-| 询价 | 供应商专业度 | 选错供应商 |
-| 样单 | 实物 vs 描述 | 大批量货不对板 |
-| 验厂 | 真假工厂、产能品控 | 断供/品质崩盘 |
-| 验货 | 出货前品质 | 上船后无法补救 |
-| 物流 | 装箱与成本 | 运费吃掉利润 |
-| 清关 | 合规与归类 | 卡关/补税/退货 |
+| Inquiry | Supplier professionalism | Choosing the wrong supplier |
+| Sample order | Physical item vs description | Bulk goods not matching the description |
+| Factory audit | Real factory, capacity and quality control | Supply disruption/quality collapse |
+| Inspection | Pre-shipment quality | Unrecoverable after the ship has sailed |
+| Logistics | Loading and cost | Freight eating up profits |
+| Customs clearance | Compliance and classification | Customs blockage/back taxes/returns |
 
-**每一步都是「保险」，不是「成本」。**
+**Every step is "insurance", not "cost".**
 
 ---
 
-*下一篇：[常见采购误区](common-pitfalls.md)*
+*Next: [Common Purchasing Pitfalls](common-pitfalls.md)*

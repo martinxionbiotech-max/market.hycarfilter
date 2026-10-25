@@ -1,28 +1,28 @@
-# 区域市场报告
+# Regional Market Reports
 
-!!! note "来源性质"
-    本板块为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 认证/准入/合规框架介绍，**不构成认证或法律结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。市场规模相关数据为**估算参考 / for reference only**。回链：[data 首页](https://data.hycarfilter.com) · [tech 出口市场标准差异](https://tech.hycarfilter.com/standards/export-market-diff/)。
+!!! note "Source attribution"
+    This section is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to certification/market entry/compliance frameworks, **not constituting certification or legal conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Market-size-related data is **estimated reference / for reference only**. Backlinks: [data home](https://data.hycarfilter.com) · [tech export market standard differences](https://tech.hycarfilter.com/standards/export-market-diff/).
 
-本板块是 market 站的核心。五篇区域深度报告，每篇统一五段结构：**市场需求特征 → 进口渠道结构 → 竞争格局 → 采购者决策因素 → 市场进入建议（原创主观观点段）**。
+This section is the core of the market site. Five regional in-depth reports, each with a uniform five-part structure: **market demand characteristics → import channel structure → competitive landscape → buyer decision factors → market entry recommendations (original subjective opinion section)**.
 
-## 五大出口区域速览
+## Five major export regions at a glance
 
-| 区域 | 一句话画像 | 准入关键词 | 对应报告 |
+| Region | One-line profile | Entry keywords | Corresponding report |
 |---|---|---|---|
-| 欧洲 | 高价值 + 高门槛，体系与环保合规为王 | CE / REACH / RoHS / IATF 16949 框架 | [欧洲](europe.md) |
-| 中东 | 高温沙尘，高频换件，重性能 | GCC 认证框架 | [中东](middle-east.md) |
-| 东南亚 | 价格敏感 + 热带高湿，日系车主导 | 各国进口许可差异 | [东南亚](southeast-asia.md) |
-| 拉美 | 准入门槛不一，通胀扰动采购，防潮关键 | INMETRO（巴西）框架 | [拉美](latin-america.md) |
-| 非洲 | 二手/低端车保有，极端性价比 | 各国差异大，防潮关键 | [非洲](africa.md) |
+| Europe | High value + high threshold, systems and environmental compliance rule | CE / REACH / RoHS / IATF 16949 framework | [Europe](europe.md) |
+| Middle East | High temperature and dust, high-frequency replacement, performance-focused | GCC certification framework | [Middle East](middle-east.md) |
+| Southeast Asia | Price-sensitive + tropical high humidity, Japanese-brand dominant | Differences in each country's import licensing | [Southeast Asia](southeast-asia.md) |
+| Latin America | Uneven entry thresholds, inflation disrupts procurement, moisture protection is key | INMETRO (Brazil) framework | [Latin America](latin-america.md) |
+| Africa | Used/low-end vehicle parc, extreme cost-performance | Large differences across countries, moisture protection is key | [Africa](africa.md) |
 
-## 如何读这五篇
+## How to read these five reports
 
-**[分析判断]** 五篇报告不是「五个地区的大同小异」，而是**五个完全不同的生意模型**：
+**[Analytical Judgment]** The five reports are not "five regions with minor variations", but **five completely different business models**:
 
-- **欧洲**卖的是「合规 + 品牌溢价」，适合体系成熟的供应商；
-- **中东**卖的是「工况适配 + 渠道关系」，适合性能型产品；
-- **东南亚**卖的是「性价比 + 防潮」，适合基础款走量；
-- **拉美**卖的是「准入门票 + 抗通胀的稳定供应」，适合有认证布局的供应商；
-- **非洲**卖的是「极低价 + 缺件填补」，适合低端走量与先发卡位。
+- **Europe** sells "compliance + brand premium", suitable for suppliers with mature systems;
+- **Middle East** sells "operating-condition fitment + channel relationships", suitable for performance-oriented products;
+- **Southeast Asia** sells "cost-performance + moisture protection", suitable for basic models in volume;
+- **Latin America** sells "entry tickets + inflation-resistant stable supply", suitable for suppliers with certification layout;
+- **Africa** sells "ultra-low price + filling parts shortages", suitable for low-end volume and early positioning.
 
-建议先读你**正在做或想做**的那个区域，再横向对比其他区域，会发现「同一只滤清器，五种卖法」。
+It is recommended to first read the region you **are doing or want to do**, then compare horizontally with other regions, and you will find "the same filter, five ways to sell it".

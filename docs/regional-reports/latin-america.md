@@ -1,63 +1,63 @@
-# 拉美市场报告
+# Latin America Market Report
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 准入/合规框架介绍，**不构成认证或法律结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。市场规模相关数据为**估算参考 / for reference only**。回链：[tech 出口市场标准差异](https://tech.hycarfilter.com/standards/export-market-diff/)。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to market entry/compliance frameworks, **not constituting certification or legal conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Market-size-related data is **estimated reference / for reference only**. Backlinks: [tech export market standard differences](https://tech.hycarfilter.com/standards/export-market-diff/).
 
-## 一、市场需求特征
+## 1. Market demand characteristics
 
-**[行业常识]** 拉美（巴西、墨西哥、阿根廷、智利、哥伦比亚等）是**体量大但波动高**的市场：
+**[Industry Knowledge]** Latin America (Brazil, Mexico, Argentina, Chile, Colombia, etc.) is a **large-volume but highly volatile** market:
 
-- **保有量大、车龄偏长**：存量车多，换件需求旺盛；
-- **通胀与汇率波动**：采购节奏受宏观经济扰动明显，需求「时好时坏」；
-- **准入门槛不一**：巴西有 INMETRO 框架，其他国家相对宽松但各国差异大；
-- **海运周期长 + 防潮关键**：跨洋运输 + 热带/沿海气候，包装防潮是硬要求。
+- **Large parc, older vehicles**: many existing vehicles, strong replacement demand;
+- **Inflation and exchange-rate volatility**: the purchasing rhythm is clearly disturbed by macroeconomic conditions, with demand "sometimes good, sometimes bad";
+- **Uneven entry thresholds**: Brazil has the INMETRO framework, while other countries are relatively lenient but with large differences;
+- **Long ocean transit + moisture protection is key**: transoceanic transport + tropical/coastal climate make packaging moisture protection a hard requirement.
 
-**[框架参考]** 巴西对部分汽车零部件有 **INMETRO 认证框架**（认证与合格评定），其他国家准入门槛不一，**具体以目标国现行法规为准，不构成法律结论**。
+**[Framework Reference]** Brazil has the **INMETRO certification framework** (certification and conformity assessment) for some automotive parts, while other countries have uneven entry thresholds; **specifics are subject to the target country's current regulations and do not constitute a legal conclusion**.
 
-## 二、进口渠道结构
+## 2. Import channel structure
 
-**[行业常识]** 拉美进口渠道以**大型进口商 + 汽配批发商**为核心：
+**[Industry Knowledge]** Latin America's import channels are centered on **large importers + auto-parts wholesalers**:
 
-| 渠道 | 特征 | 对中国供应商的意义 |
+| Channel | Characteristics | Significance for Chinese suppliers |
 |---|---|---|
-| 大型进口商/集团 | 集中采购、批量大 | 主流入口，但账期与价格谈判强势 |
-| 汽配批发市场 | 区域集散（如巴西、墨西哥） | 走量渠道 |
-| 品牌代工（OEM/ODM） | 拉美品牌找中国工厂代工 | 稳定的代工机会 |
-| 电商/跨境 | 增长中 | 新渠道，尚处早期 |
+| Large importers/groups | Centralized purchasing, large volumes | Mainstream entry, but strong credit-term and price negotiation |
+| Auto-parts wholesale markets | Regional distribution (e.g. Brazil, Mexico) | Volume channel |
+| Brand contract manufacturing (OEM/ODM) | Latin American brands find Chinese factories for contract manufacturing | Stable contract-manufacturing opportunity |
+| E-commerce / cross-border | Growing | New channel, still early stage |
 
-**[分析判断]** 拉美采购的**最大特点是「订单波峰波谷 + 账期长」**——通胀好时疯狂下单，汇率崩时集体观望。中国供应商必须**把现金流与账期风控放在第一位**，否则「订单来了没钱做，货发出去钱难回」。
+**[Analytical Judgment]** The **biggest characteristic of Latin American purchasing is "order peaks and troughs + long credit terms"** — frantic ordering when inflation is good, and collective hesitation when the exchange rate collapses. Chinese suppliers must **put cash flow and credit-term risk control first**, otherwise "orders come but there's no money to produce, goods ship but the money is hard to collect".
 
-## 三、竞争格局
+## 3. Competitive landscape
 
-**[行业常识]** 拉美滤清器市场以**本土品牌 + 区域组装 + 中国进口**为主，全球头部品牌在高端 OE 与高价值 AM 占优。
+**[Industry Knowledge]** The Latin American filter market is dominated by **local brands + regional assembly + Chinese imports**, with global leading brands dominant in high-end OE and high-value AM.
 
-**[分析判断]** 中国工厂在拉美的机会在**「性价比 + 稳定供应」**：
+**[Analytical Judgment]** Chinese factories' opportunity in Latin America lies in "**cost-performance + stable supply**":
 
-- 本土品牌有渠道但成本高，中国货有价格优势；
-- 拉美采购对中国货的认知正在从「低价」转向「低价 + 可用」，**品质一致性是巩固这一转向的关键**；
-- 墨西哥有近岸组装优势（面向北美），中国直供要面对「墨西哥/巴西本土组装 + 关税」的竞争。
+- Local brands have channels but high costs, while Chinese goods have a price advantage;
+- Latin American purchasing's perception of Chinese goods is shifting from "low price" to "low price + usable", and **quality consistency is the key to consolidating this shift**;
+- Mexico has a nearshore assembly advantage (facing North America), so Chinese direct supply must compete with "Mexico/Brazil local assembly + tariffs".
 
-## 四、采购者决策因素
+## 4. Buyer decision factors
 
-**[分析判断]** 拉美采购者的决策权重排序：
+**[Analytical Judgment]** The decision-weight ranking of Latin American buyers:
 
-1. **价格与账期**：通胀环境下的成本敏感 + 账期博弈；
-2. **稳定供应**：海运周期长，交期与补货稳定性决定是否敢持续下单；
-3. **防潮包装**：跨洋 + 沿海，包装防潮（干燥剂/VCI/隔潮托盘）直接影响到货品质；
-4. **准入合规**：巴西 INMETRO 等框架，视目标国而定。
+1. **Price and credit terms**: cost sensitivity under inflation + credit-term games;
+2. **Stable supply**: long ocean transit means lead-time and restocking stability determine whether they dare keep ordering;
+3. **Moisture-proof packaging**: transoceanic + coastal, packaging moisture protection (desiccant/VCI/moisture-barrier pallets) directly affects arrival quality;
+4. **Entry compliance**: the Brazil INMETRO and other frameworks, depending on the target country.
 
-**[数据引用]** 面向拉美，data 站 `target_markets` 字段含 **South America**；跨洋运输强调的防潮包装，对应 data 站出口装箱数据中的海运防潮假设——与 [data.hycarfilter](https://data.hycarfilter.com) 同值。
+**[Data Citation]** For Latin America, the data site's `target_markets` field contains **South America**; the moisture-proof packaging emphasized for transoceanic transport corresponds to the ocean-transit moisture assumptions in the data site's export packing data — identical in value to [data.hycarfilter](https://data.hycarfilter.com).
 
-## 五、市场进入建议（原创观点）
+## 5. Market entry recommendations (original opinion)
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **现金流第一，订单第二**：拉美的账期风险高，**坚持预付/信用证，控制放账**，别为冲量牺牲回款安全。
-2. **防潮做足**：跨洋海运 + 沿海气候，**防潮包装（干燥剂、VCI 防锈、隔潮托盘）是拉美的「隐性质量线」**——货到了生锈，前面的价格谈判全白费。
-3. **先做巴西以外的「低门槛市场」切入**：巴西有 INMETRO 框架门槛，可先从智利、哥伦比亚、秘鲁等门槛相对低的国家建立渠道，再图巴西。
-4. **抓住「低价 + 可用」的定位窗口**：拉美正从「只认低价」转向「低价但可用」，**用批次品质一致性巩固口碑，是低成本高回报的护城河**。
-5. **评估墨西哥近岸变量**：面向北美转口的订单，墨西哥组装是竞争对手，但也可能成为合作方——视具体品类与关税而定。
+1. **Cash flow first, orders second**: Latin America's credit-term risk is high, so **insist on prepayment/letter of credit and control credit exposure**; don't sacrifice collection safety for volume.
+2. **Do moisture protection thoroughly**: transoceanic shipping + coastal climate mean **moisture-proof packaging (desiccant, VCI anti-rust, moisture-barrier pallets) is Latin America's "invisible quality line"** — if goods arrive rusted, all prior price negotiations are wasted.
+3. **Enter via "low-threshold markets" outside Brazil first**: Brazil has the INMETRO framework threshold; you can first build channels in relatively low-threshold countries like Chile, Colombia, and Peru, then move toward Brazil.
+4. **Capture the "low price + usable" positioning window**: Latin America is shifting from "only recognizing low prices" to "low price but usable", and **consolidating word of mouth through batch quality consistency is a low-cost, high-return moat**.
+5. **Assess the Mexico nearshore variable**: for orders re-exported to North America, Mexico assembly is a competitor but could also become a partner — depending on the specific category and tariffs.
 
 ---
 
-*下一篇：[非洲市场报告](africa.md)*
+*Next: [Africa Market Report](africa.md)*

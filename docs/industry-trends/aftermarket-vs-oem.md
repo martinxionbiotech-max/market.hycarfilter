@@ -1,48 +1,48 @@
-# 售后市场 vs OEM
+# Aftermarket vs OEM
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。OEM/AM 占比为**估算参考 / for reference only**。回链：[供应链结构](../industry-overview/supply-chain.md)。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). The OEM/AM shares are **estimated reference / for reference only**. Backlinks: [Supply Chain Structure](../industry-overview/supply-chain.md).
 
-## 一、两条腿的结构差异
+## 1. Structural differences between the two legs
 
-**[行业常识]** 滤清器需求分 **OEM（原厂配套）** 与 **AM（售后市场）** 两条腿，核心差异已在[供应链结构](../industry-overview/supply-chain.md)展开。这里聚焦「**趋势**」：两条腿各自在涨还是跌、涨在哪。
+**[Industry Knowledge]** Filter demand is split into two legs, **OEM (original equipment)** and **AM (aftermarket)**, whose core differences are elaborated in [Supply Chain Structure](../industry-overview/supply-chain.md). Here we focus on the "**trends**": whether each leg is rising or falling, and where it is rising.
 
-## 二、售后市场为什么持续扩张
+## 2. Why the aftermarket keeps expanding
 
-**[行业常识]** 售后市场（AM）长期跑赢 OEM 的逻辑，来自三个结构性因素：
+**[Industry Knowledge]** The logic that the aftermarket (AM) outperforms OEM over the long run comes from three structural factors:
 
-| 因素 | 机制 |
+| Factor | Mechanism |
 |---|---|
-| 保有量累积 | 全球汽车保有量持续增长，存量车的换件需求只增不减 |
-| 车龄延长 | 全球车龄普遍拉长，老车换件更频繁 |
-| 电动化前的「最后红利期」 | 内燃机车存量在电动化完全替代前仍是绝对主力，机滤/燃油滤需求在**中短期仍坚挺** |
+| Parc accumulation | The global vehicle parc keeps growing, and the replacement demand of existing vehicles only increases |
+| Vehicle age extension | Global vehicle ages are generally lengthening, and older vehicles change parts more frequently |
+| The "last dividend period" before electrification | Before electrification fully replaces them, internal-combustion vehicles remain the absolute majority, and oil filter/fuel filter demand **stays firm in the short-to-medium term** |
 
-**[数据引用｜估算参考 · for reference only]** 售后市场占滤清器总需求约 **70%–80%**（估算参考）——这与[全球市场](../industry-overview/global-market.md) 的估算口径一致。
+**[Data Citation | Estimated reference · for reference only]** The aftermarket accounts for about **70%–80%** of total filter demand (estimated reference) — consistent with the estimation scope in [Global Market](../industry-overview/global-market.md).
 
-## 三、OEM 侧的「绑定与天花板」
+## 3. The "binding and ceiling" of the OEM side
 
-**[行业常识]** OEM 配套绑定整车厂，订单稳定但**随新车产量波动**，且受整车厂成本年降压力持续压缩。对中小工厂而言，OEM 配套是「高门槛 + 薄利润 + 长周期」的生意。
+**[Industry Knowledge]** OEM supply is bound to automakers, with stable orders but **fluctuating with new-vehicle production**, and is continuously compressed by automakers' annual cost-reduction pressure. For small and medium factories, OEM supply is a business of "high threshold + thin margins + long cycle".
 
-**[分析判断]** 对出口采购者与中小供应商，**OEM 配套不是主赛道**：整车配套的话语权在整车厂，中国中小工厂真正能吃到的是「**AM 代工 + AM 出口**」这一块——它随保有量增长而增长，且进入门槛远低于整车定点。
+**[Analytical Judgment]** For export buyers and small/medium suppliers, **OEM supply is not the main track**: the bargaining power in automaker supply lies with the automaker, and what small and medium Chinese factories can really capture is "**AM contract manufacturing + AM export**" — it grows with the parc, and its entry threshold is far lower than automaker sourcing.
 
-## 四、趋势判断
+## 4. Trend judgment
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **中短期：AM 是确定性最强的赛道**。内燃机车存量巨大，机滤/燃油滤/空滤的换件刚需在未来 5–10 年内不会消失，AM 是「确定性现金流」。
-2. **长期：AM 内部结构会变**。空调滤（座舱空气质量）占比上升、机滤/燃油滤随电动化长期下行、空滤随内燃机 + 增程/混动延续——**AM 大盘稳，但内部品类此消彼长**。
-3. **OEM 的机会在「混动/增程」**：混动、增程仍带内燃机，OEM 配套仍有增量，但总量天花板可见。
+1. **Short-to-medium term: AM is the most certain track**. The internal-combustion vehicle parc is huge, and the rigid replacement demand for oil filters/fuel filters/air filters will not disappear in the next 5–10 years; AM is "certain cash flow".
+2. **Long term: the internal structure of AM will change**. The share of cabin filters (cabin air quality) rises, oil filters/fuel filters decline over the long run with electrification, and air filters continue with internal-combustion engines + range-extender/hybrid — **the AM base is stable, but internal categories rise and fall**.
+3. **OEM's opportunity lies in "hybrid/range-extender"**: hybrids and range-extenders still carry internal-combustion engines, so OEM supply still has incremental demand, but the total ceiling is visible.
 
-**[数据引用]** 从 canonical 数据集品类覆盖看，hycarfilter 同时布局空滤、机滤、燃油滤、空调滤、变速箱滤网——**这是「AM 全品类 + 抗单一品类下行」的典型组合**，与 [data.hycarfilter](https://data.hycarfilter.com) 同值。
+**[Data Citation]** From the category coverage of the canonical dataset, hycarfilter simultaneously covers air filters, oil filters, fuel filters, cabin filters, and transmission filter screens — **this is a typical "AM full-category + resistance to single-category decline" combination**, identical in value to [data.hycarfilter](https://data.hycarfilter.com).
 
-## 五、给采购者的结论
+## 5. Conclusions for buyers
 
-**[分析判断]** 出口采购者应当**把资源押在 AM 侧**，但要**在 AM 内部做品类再平衡**：
+**[Analytical Judgment]** Export buyers should **put their resources on the AM side**, but **rebalance categories within AM**:
 
-- 短期仍可主力做机滤/燃油滤（需求坚挺）；
-- 提前布局空调滤（座舱空气质量长期向上）；
-- 把空滤做成「工况适配」的差异化品类（沙尘/高寒/高湿各有侧重）。
+- In the short term, still focus on oil filters/fuel filters (firm demand);
+- Lay out cabin filters in advance (cabin air quality trends upward long-term);
+- Make air filters a differentiated category of "operating-condition fitment" (dust/cold/humid each have their emphasis).
 
 ---
 
-*下一篇：[电动化对滤清器需求的影响](ev-impact.md)*
+*Next: [Impact of Electrification on Filter Demand](ev-impact.md)*

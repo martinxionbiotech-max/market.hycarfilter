@@ -1,80 +1,80 @@
-# 行业数据参考表
+# Industry Data Reference
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。**本页所有市场规模/增速区间均为「估算参考 / for reference only」**，非权威统计值，仅供量级参考，不作投资/采购定价依据。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). **All market size/growth rate ranges on this page are "estimated reference / for reference only"**, not authoritative statistics, serving only for order-of-magnitude reference and not as a basis for investment or purchasing/pricing decisions.
 
-本页汇总 market 站涉及的**行业量级数据**与**canonical 数据集的权威字段**，并明确区分两类性质：**估算参考**（市场量级，非权威统计）与 **数据引用**（canonical 数据集同值）。
+This page summarizes the **industry order-of-magnitude data** involved in the market site and the **authoritative fields of the canonical dataset**, and clearly distinguishes two types of nature: **estimated reference** (market order of magnitude, not authoritative statistics) and **data citation** (identical in value to the canonical dataset).
 
-## 一、市场规模区间（估算参考 · for reference only）
+## 1. Market size ranges (estimated reference · for reference only)
 
-**[数据引用｜估算参考 · for reference only]** 以下区间为行业量级估算，**非权威统计值**：
+**[Data Citation | Estimated reference · for reference only]** The following ranges are industry order-of-magnitude estimates, **not authoritative statistics**:
 
-| 指标 | 估算区间 | 性质 |
+| Indicator | Estimated range | Nature |
 |---|---|---|
-| 全球汽车滤清器市场规模 | 约 100–200 亿美元 / 年 | 估算参考 |
-| 全球年复合增速 | 约 3%–6% | 估算参考 |
-| 后市场（AM）占比 | 约 70%–80% | 估算参考 |
-| OE 配套占比 | 约 20%–30% | 估算参考 |
+| Global automotive filter market size | approx. USD 10–20 billion / year | Estimated reference |
+| Global annual compound growth rate | approx. 3%–6% | Estimated reference |
+| Aftermarket (AM) share | approx. 70%–80% | Estimated reference |
+| OE supply share | approx. 20%–30% | Estimated reference |
 
-> **说明**：滤清器市场规模因品类口径（是否含雨刮/车灯/变速箱滤网）、统计口径（出厂价 vs 零售价）不同而差异较大，以上为量级区间，非精确统计。
+> **Note**: filter market size differs greatly depending on category scope (whether wiper blades/lights/transmission filter screens are included) and statistical scope (factory price vs retail price); the above are order-of-magnitude ranges, not precise statistics.
 
-## 二、品类与 HS 编码（数据引用 · 与 data 站同值）
+## 2. Categories and HS codes (Data Citation · identical in value to the data site)
 
-**[数据引用]** 7 大品类与 HS 编码，与 [data.hycarfilter](https://data.hycarfilter.com) canonical 数据集同值：
+**[Data Citation]** The 7 major categories and HS codes, identical in value to the [data.hycarfilter](https://data.hycarfilter.com) canonical dataset:
 
-| 品类 | 中文 | HS Code |
+| Category | Chinese name | HS Code |
 |---|---|---|
-| Air Filter | 空气滤清器 | 8421310000 |
-| Cabin Filter | 空调滤清器 | 8421310000 |
-| Oil Filter | 机油滤清器 | 8421230000 |
-| Fuel Filter | 燃油滤清器 | 8421230000 |
-| Wiper Blade | 雨刮器 | 8512400000 |
-| Transmission Filter Screen | 变速箱滤网 | 8708409990 |
-| LED Lights | LED 车灯 | 8512209000 |
+| Air Filter | Air filter | 8421310000 |
+| Cabin Filter | Cabin filter | 8421310000 |
+| Oil Filter | Oil filter | 8421230000 |
+| Fuel Filter | Fuel filter | 8421230000 |
+| Wiper Blade | Wiper blade | 8512400000 |
+| Transmission Filter Screen | Transmission filter screen | 8708409990 |
+| LED Lights | LED lights | 8512209000 |
 
-## 三、效率档位（数据引用 · 与 data 站同值）
+## 3. Efficiency grades (Data Citation · identical in value to the data site)
 
-**[数据引用]** 各品类过滤效率档位，与 data 站 canonical 数据集同值：
+**[Data Citation]** The filtration efficiency grades of each category, identical in value to the data site's canonical dataset:
 
-| 品类 | 效率档位（数据引用） |
+| Category | Efficiency grade (Data Citation) |
 |---|---|
-| 空气滤清器 | >=99.0% – >=99.6% |
-| 机油滤清器 | >=90% @ 20um – >=95% @ 20um |
-| 燃油滤清器 | >=95% @ 10um – >=97% @ 10um |
-| 空调滤清器 | >=95% – >=99.97%（HEPA 级 H13） |
-| 变速箱滤网 | >=90% @ 40um |
+| Air filter | >=99.0% – >=99.6% |
+| Oil filter | >=90% @ 20um – >=95% @ 20um |
+| Fuel filter | >=95% @ 10um – >=97% @ 10um |
+| Cabin filter | >=95% – >=99.97% (HEPA grade H13) |
+| Transmission filter screen | >=90% @ 40um |
 
-## 四、出口关键字段（数据引用 · 与 data 站同值）
+## 4. Key export fields (Data Citation · identical in value to the data site)
 
-**[数据引用]** 出口字段取值范围，与 data 站 canonical 数据集同值：
+**[Data Citation]** Export field value ranges, identical in value to the data site's canonical dataset:
 
-| 字段 | 取值范围（数据引用） |
+| Field | Value range (Data Citation) |
 |---|---|
-| MOQ | 200 / 300 / 500 / 1000 件 |
-| 交期 | 15 / 18 / 20 / 22 / 25 天 |
-| 认证字段 | ISO 9001 · IATF 16949 · CE · RoHS |
-| 目标市场 | Europe · Middle East · Russia · Southeast Asia · South America · North America · Africa |
+| MOQ | 200 / 300 / 500 / 1000 pcs |
+| Lead time | 15 / 18 / 20 / 22 / 25 days |
+| Certification fields | ISO 9001 · IATF 16949 · CE · RoHS |
+| Target markets | Europe · Middle East · Russia · Southeast Asia · South America · North America · Africa |
 
-## 五、准入/认证框架速查（框架参考 · 不构成认证声明）
+## 5. Entry/certification framework quick reference (Framework Reference · not constituting a certification statement)
 
-**[框架参考]** 目标市场准入/认证框架（不构成认证或法律结论，详见 [tech 站](https://tech.hycarfilter.com/standards/export-market-diff/)）：
+**[Framework Reference]** Target-market entry/certification frameworks (not constituting certification or legal conclusions, see the [tech site](https://tech.hycarfilter.com/standards/export-market-diff/) for details):
 
-| 市场 | 准入/合规框架 |
+| Market | Entry/compliance framework |
 |---|---|
-| 欧洲 | CE（LED 类）/ REACH / RoHS / IATF 16949 框架 |
-| 中东 | GCC 认证框架 |
-| 俄罗斯/欧亚 | EAC 认证框架 |
-| 巴西 | INMETRO 认证框架 |
-| 东南亚 | 各国进口许可差异大 |
+| Europe | CE (LED types) / REACH / RoHS / IATF 16949 framework |
+| Middle East | GCC certification framework |
+| Russia/Eurasia | EAC certification framework |
+| Brazil | INMETRO certification framework |
+| Southeast Asia | Large differences in each country's import licensing |
 
-## 六、使用须知
+## 6. Usage notes
 
-**[分析判断]** 使用本页数据时，请记住三条：
+**[Analytical Judgment]** When using this page's data, keep three points in mind:
 
-1. **估算参考 ≠ 权威统计**：市场规模/增速是量级区间，**别拿去写进合同或报价**；
-2. **数据引用以 data 站为准**：HS 编码/效率/认证/目标市场字段，**唯一事实源在 [data.hycarfilter](https://data.hycarfilter.com)**，本页只是同值引用；
-3. **框架参考 ≠ 认证结论**：准入框架只是常识，**具体认证以目标国法规与专业机构为准**。
+1. **Estimated reference ≠ authoritative statistics**: market size/growth rates are order-of-magnitude ranges; **don't write them into contracts or quotes**;
+2. **Data citations are subject to the data site**: for HS codes/efficiency/certification/target market fields, **the single source of truth is [data.hycarfilter](https://data.hycarfilter.com)**; this page only cites identical values;
+3. **Framework reference ≠ certification conclusion**: the entry frameworks are only common knowledge; **specific certification is subject to the target country's regulations and professional institutions**.
 
 ---
 
-*本页是 market 站的数据汇总。返回[首页](../index.md)。*
+*This page is the data summary of the market site. Back to [Home](../index.md).*

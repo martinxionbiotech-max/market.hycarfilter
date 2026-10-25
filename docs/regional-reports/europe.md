@@ -1,65 +1,65 @@
-# 欧洲市场报告
+# Europe Market Report
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 认证/准入/环保合规框架介绍，**不构成认证或法律结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。市场规模相关数据为**估算参考 / for reference only**。回链：[tech 出口市场标准差异](https://tech.hycarfilter.com/standards/export-market-diff/)。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to certification/market entry/environmental compliance frameworks, **not constituting certification or legal conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Market-size-related data is **estimated reference / for reference only**. Backlinks: [tech export market standard differences](https://tech.hycarfilter.com/standards/export-market-diff/).
 
-## 一、市场需求特征
+## 1. Market demand characteristics
 
-**[行业常识]** 欧洲是全球汽车保有量最大、单车价值最高、也是最成熟的滤清器市场之一。需求特征：
+**[Industry Knowledge]** Europe is one of the world's largest automotive parc markets, with the highest per-vehicle value, and one of the most mature filter markets. Demand characteristics:
 
-- **保有量大、车龄偏长**：成熟市场保有量稳定，老车占比高，换件需求旺盛；
-- **品牌忠诚度高**：车主与修理厂对 MANN、Bosch、MAHLE 等本土/欧洲品牌信任度高；
-- **环保合规敏感**：REACH（化学品）、RoHS（有害物质）等环保合规是硬门槛；
-- **质量体系门槛高**：IATF 16949 / ISO 9001 体系框架是进入主流渠道的基本预期。
+- **Large parc, older vehicles**: a mature market with stable parc and a high share of older vehicles, so replacement demand is strong;
+- **High brand loyalty**: vehicle owners and repair shops have high trust in local/European brands such as MANN, Bosch, and MAHLE;
+- **Sensitive to environmental compliance**: REACH (chemicals), RoHS (hazardous substances) and other environmental compliance are hard thresholds;
+- **High quality system thresholds**: the IATF 16949 / ISO 9001 system frameworks are the basic expectation for entering mainstream channels.
 
-**[框架参考]** 欧洲市场对 LED 车灯类产品要求 **CE 标志框架**；对滤清器类产品，核心是**环保合规（REACH/RoHS）** 与**质量体系（IATF 16949 框架）**，而非单一产品认证。
+**[Framework Reference]** The European market requires the **CE marking framework** for LED-light-type products; for filter-type products, the core is **environmental compliance (REACH/RoHS)** and **quality systems (IATF 16949 framework)**, rather than a single product certification.
 
-## 二、进口渠道结构
+## 2. Import channel structure
 
-**[行业常识]** 欧洲滤清器进口渠道高度分层：
+**[Industry Knowledge]** Europe's filter import channels are highly layered:
 
-| 渠道 | 特征 | 对中国供应商的意义 |
+| Channel | Characteristics | Significance for Chinese suppliers |
 |---|---|---|
-| OE 配套 / Tier 1 | 整车厂定点，门槛极高 | 中小工厂难进入 |
-| 品牌商代工（OEM/ODM） | 欧洲品牌找亚洲工厂代工贴牌 | **中国工厂最现实的高价值入口** |
-| 大型分销商 / 采购集团 | 集中采购、要求体系认证与追溯 | 批量大但价格谈判强势 |
-| 汽配连锁 / 电商 | 快速补货、SKU 广、交期敏感 | 白牌/区域牌的机会 |
-| 独立汽配店 | 长尾、依赖区域分销 | 需借力当地分销商 |
+| OE supply / Tier 1 | Automaker sourcing, extremely high threshold | Hard for small and medium factories to enter |
+| Brand-owner contract manufacturing (OEM/ODM) | European brands find Asian factories for contract manufacturing and private labeling | **The most realistic high-value entry for Chinese factories** |
+| Large distributors / buying groups | Centralized purchasing, requiring system certification and traceability | Large volumes but strong price negotiation |
+| Auto-parts chains / e-commerce | Fast restocking, wide SKUs, lead-time sensitive | Opportunity for white-label/regional brands |
+| Independent auto-parts shops | Long tail, dependent on regional distribution | Requires leveraging local distributors |
 
-**[分析判断]** 中国工厂进入欧洲，**最稳的路径不是自建品牌，而是「给欧洲品牌/分销商做 OEM/ODM」**——借对方的渠道与合规体系，赚代工利润。自建品牌是更长期的选项，需要投入合规、售后、品牌运营，回报周期长。
+**[Analytical Judgment]** The most stable path for Chinese factories to enter Europe is **not building their own brand, but "doing OEM/ODM for European brands/distributors"** — borrowing the other party's channels and compliance system to earn contract-manufacturing profit. Building one's own brand is a longer-term option, requiring investment in compliance, after-sales, and brand operations, with a long payback cycle.
 
-## 三、竞争格局
+## 3. Competitive landscape
 
-**[行业常识]** 欧洲是头部品牌的大本营：MANN+HUMMEL、Bosch、MAHLE、Sogefi 等既是 OE 供应商，又强势主导 AM。区域品牌与白牌则在下沉渠道分食。
+**[Industry Knowledge]** Europe is the home base of leading brands: MANN+HUMMEL, Bosch, MAHLE, Sogefi and others are both OE suppliers and strong AM dominators. Regional brands and white labels compete in the lower channels.
 
-**[分析判断]** 中国出口工厂在欧洲的竞争格局是「**上层打不进，下层挤不动**」：
+**[Analytical Judgment]** The competitive landscape for Chinese export factories in Europe is "**can't break in at the top, can't squeeze in at the bottom**":
 
-- 上层（OE + 高端 AM）：被欧洲本土品牌用 OE 绑定 + 品牌溢价锁死；
-- 中层（品牌代工）：中国工厂的机会窗口，但被东欧/土耳其等近岸供应商分流；
-- 下层（白牌价格战）：利润极薄，且欧洲对低质件的退货与合规追责严格。
+- Top layer (OE + high-end AM): locked down by European local brands through OE binding + brand premium;
+- Middle layer (brand contract manufacturing): the opportunity window for Chinese factories, but diverted by nearshore suppliers in Eastern Europe/Turkey;
+- Bottom layer (white-label price wars): extremely thin margins, and Europe strictly pursues returns and compliance accountability for low-quality parts.
 
-**结论**：欧洲做的是「合规 + 代工 + 稳定品质」的生意，不适合纯低价打法。
+**Conclusion**: Europe is a business of "compliance + contract manufacturing + stable quality", not suitable for a pure low-price play.
 
-## 四、采购者决策因素
+## 4. Buyer decision factors
 
-**[分析判断]** 欧洲采购者（进口商/分销商）的决策权重排序：
+**[Analytical Judgment]** The decision-weight ranking of European buyers (importers/distributors):
 
-1. **合规与追溯**：REACH/RoHS 合规文件、质量体系、批次追溯能力——这是「能不能进门」；
-2. **品质一致性**：批次间稳定、退货率低——这是「能不能留下」；
-3. **交期可靠**：欧洲分销强调计划性，交期违约比价高更致命；
-4. **价格**：放在最后，但仍是持续年降压力的来源。
+1. **Compliance and traceability**: REACH/RoHS compliance documents, quality systems, and batch traceability capability — this is "whether you can get in the door";
+2. **Quality consistency**: stable across batches, low return rate — this is "whether you can stay";
+3. **Reliable lead time**: European distribution emphasizes planning, and lead-time breaches are more fatal than high prices;
+4. **Price**: placed last, but still a source of sustained annual cost-reduction pressure.
 
-**[数据引用]** 面向欧洲的选型，data 站中带「longlife / HEPA」等高端定位的型号（如空调滤 HEPA 级、长寿命机滤）更契合欧洲「长里程 + 高环保」的需求，认证字段对应 ISO 9001 / IATF 16949 框架——与 [data.hycarfilter](https://data.hycarfilter.com) 同值。
+**[Data Citation]** For Europe-oriented selection, the data site's models positioned as "longlife / HEPA" high-end (e.g. HEPA-grade cabin filters, long-life oil filters) better fit Europe's "long mileage + high environmental protection" demand, with certification fields corresponding to the ISO 9001 / IATF 16949 framework — identical in value to [data.hycarfilter](https://data.hycarfilter.com).
 
-## 五、市场进入建议（原创观点）
+## 5. Market entry recommendations (original opinion)
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **先做代工，再做品牌**：不要一上来就在欧洲自建品牌。先以 OEM/ODM 供货建立品质口碑与合规经验，再考虑区域品牌。
-2. **把合规文件做成一等公民**：REACH/RoHS 声明、材质成分表、体系证书复印件、批次追溯码——这些是欧洲采购的「入场材料」，缺一份都会被渠道挡在门外。
-3. **瞄准「近岸化退潮」的机会**：欧洲近岸供应链（东欧/土耳其）成本上升时，中国工厂的「合规 + 稳定 + 仍具性价比」组合仍有窗口，但**必须用交期与品质证明自己不是低价低质**。
-4. **避开纯价格战**：欧洲退货与合规追责成本高，低价低质件一旦被渠道拉黑，重建信任极难。**把资源投在「品质一致性」而非「再便宜 5%」**。
+1. **Do contract manufacturing first, then brands**: don't start by building your own brand in Europe. First establish quality reputation and compliance experience through OEM/ODM supply, then consider a regional brand.
+2. **Make compliance documents a first-class citizen**: REACH/RoHS declarations, material composition sheets, copies of system certificates, and batch traceability codes — these are the "entry materials" for European purchasing, and missing any one will get you blocked at the channel door.
+3. **Target the "nearshore retreat" opportunity**: when nearshore supply chains (Eastern Europe/Turkey) see rising costs, the "compliance + stability + still cost-competitive" combination of Chinese factories still has a window, but **you must prove with lead time and quality that you are not low-price, low-quality**.
+4. **Avoid pure price wars**: Europe's return and compliance accountability costs are high; once a low-price, low-quality part is blacklisted by a channel, rebuilding trust is extremely hard. **Put resources into "quality consistency" rather than "another 5% cheaper".**
 
 ---
 
-*下一篇：[中东市场报告](middle-east.md)*
+*Next: [Middle East Market Report](middle-east.md)*

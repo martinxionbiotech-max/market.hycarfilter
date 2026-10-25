@@ -1,59 +1,59 @@
-# 供应链结构：OEM 与售后市场（AM）
+# Supply Chain Structure: OEM and Aftermarket (AM)
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。OEM/AM 占比为**估算参考 / for reference only**。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). The OEM/AM shares are **estimated reference / for reference only**.
 
-## 一、OEM 与 AM 的区别（行业常识）
+## 1. The difference between OEM and AM (industry knowledge)
 
-汽车滤清器供应链分两条腿：**OEM（原厂配套）** 与 **AM（Aftermarket，售后市场）**。两条腿的客户、产品逻辑、利润结构完全不同：
+The automotive filter supply chain has two legs: **OEM (original equipment)** and **AM (Aftermarket)**. The customers, product logic, and profit structures of the two legs are completely different:
 
-| 维度 | OEM（原厂配套） | AM（售后市场） |
+| Dimension | OEM (original equipment) | AM (aftermarket) |
 |---|---|---|
-| 客户 | 整车厂 / 一级供应商（Tier 1） | 分销商 / 汽配连锁 / 修理厂 / 终端车主 / 电商 |
-| 进入方式 | 整车厂供应商审核（长周期、高门槛） | 渠道合作 / 品牌 / 白牌 OEM/ODM |
-| 产品逻辑 | 按车型定点开发，绑定 OE 号 | 按保有量铺 SKU，靠 OE 对照号适配 |
-| 利润结构 | 稳定但微薄，靠规模 | 渠道加价空间大，但价格竞争激烈 |
-| 认证门槛 | 整车厂质量体系（IATF 16949 等） | 市场准入认证（EAC/GCC/INMETRO 等）+ 可选体系认证 |
-| 波动性 | 随新车产量波动 | 随保有量与换件周期波动，相对稳定 |
+| Customer | Automakers / Tier 1 suppliers | Distributors / auto-parts chains / repair shops / end vehicle owners / e-commerce |
+| Entry method | Automaker supplier approval (long cycle, high threshold) | Channel cooperation / brand / white-label OEM/ODM |
+| Product logic | Developed per vehicle model, bound to OE numbers | SKUs spread by parc, matched via OE cross-reference numbers |
+| Profit structure | Stable but thin, relies on scale | Larger channel markup, but fierce price competition |
+| Certification threshold | Automaker quality system (IATF 16949 etc.) | Market entry certifications (EAC/GCC/INMETRO etc.) + optional system certification |
+| Volatility | Fluctuates with new-vehicle production | Fluctuates with parc and replacement cycles, relatively stable |
 
-**[行业常识]** OEM 与 AM 的体量占比，行业通行的认知是「**售后市场占大头**」（约为 70%–80%，估算参考）。原因是：一辆车的寿命内要换多次滤芯，而新车只配一次原厂件——**换件需求天然远大于装车需求**。
+**[Industry Knowledge]** Regarding the volume share of OEM vs AM, the industry's common understanding is "**the aftermarket takes the majority**" (about 70%–80%, estimated reference). The reason is: a vehicle changes filter elements multiple times over its life, while a new vehicle only gets original parts fitted once — **replacement demand is naturally far larger than assembly demand**.
 
-## 二、OEM 侧：绑定整车厂的「慢生意」
+## 2. The OEM side: a "slow business" bound to automakers
 
-**[行业常识]** OEM 配套需要经过整车厂的供应商审核——质量体系、产能、追溯、成本年降。特点是：
+**[Industry Knowledge]** OEM supply requires passing the automaker's supplier audit — quality system, capacity, traceability, and annual cost reduction. Its characteristics are:
 
-- **周期长**：从定点到量产常需 1–3 年；
-- **关系黏**：一旦定点，切换成本高，订单稳定；
-- **利润薄**：整车厂有成本年降压力，配套价被持续压缩；
-- **要求高**：追溯、0 PPM、VDA/APQP/PPAP 等体系要求。
+- **Long cycle**: from sourcing decision to mass production often takes 1–3 years;
+- **Sticky relationship**: once selected, switching costs are high and orders are stable;
+- **Thin margins**: automakers exert annual cost-reduction pressure, so supply prices are continuously compressed;
+- **High requirements**: traceability, 0 PPM, and VDA/APQP/PPAP system requirements.
 
-**[分析判断]** 对清河产业带的中小工厂而言，**OEM 整车配套通常不是最优路径**——投入大、回款慢、话语权弱。更现实的定位是「**Tier 2/Tier 3 或售后市场的优质代工厂**」：给一级供应商或品牌商代工，或直接做 AM 出口。
+**[Analytical Judgment]** For small and medium factories in the Qinghe industrial belt, **OEM automaker supply is usually not the optimal path** — high investment, slow payment collection, and weak bargaining power. A more realistic positioning is "**a quality Tier 2/Tier 3 or aftermarket contract manufacturer**": doing contract manufacturing for Tier 1 suppliers or brand owners, or directly doing AM export.
 
-## 三、AM 侧：出口采购者的主战场
+## 3. The AM side: the main battleground for export buyers
 
-**[行业常识]** AM 供应链的典型链路是：
+**[Industry Knowledge]** The typical AM supply chain link is:
 
 ```
-工厂（清河等）→ 出口商/品牌商 → 进口商/分销商 → 汽配连锁/修理厂/电商 → 终端车主
+Factory (Qinghe etc.) → exporter/brand owner → importer/distributor → auto-parts chain/repair shop/e-commerce → end vehicle owner
 ```
 
-**[数据引用]** hycarfilter 的 canonical 数据集 `target_markets` 字段覆盖 **Middle East / Russia / South America / Europe / North America / Southeast Asia / Africa** 等区域——这正是 AM 出口的典型目标市场分布，与 [data.hycarfilter](https://data.hycarfilter.com) 同值。
+**[Data Citation]** hycarfilter's canonical dataset `target_markets` field covers regions such as **Middle East / Russia / South America / Europe / North America / Southeast Asia / Africa** — this is exactly the typical target-market distribution of AM export, identical in value to [data.hycarfilter](https://data.hycarfilter.com).
 
-**[分析判断]** AM 侧采购者的核心竞争力排序，和 OEM 完全不同：
+**[Analytical Judgment]** The ranking of core competitiveness for AM-side buyers is completely different from OEM:
 
-1. **SKU 广度**：能覆盖多少保有量车型（OE 对照号决定适配范围）；
-2. **品质一致性**：不是「最好」，而是「批次间稳定」；
-3. **价格与 MOQ**：价格敏感市场的入场券；
-4. **交期与物流**：售后市场补货频繁，交期即现金流。
+1. **SKU breadth**: how many parc vehicle models can be covered (OE cross-reference numbers determine the fitment range);
+2. **Quality consistency**: not "the best", but "stable across batches";
+3. **Price and MOQ**: the entry ticket for price-sensitive markets;
+4. **Lead time and logistics**: aftermarket restocking is frequent, and lead time is cash flow.
 
-## 四、采购者该站哪一侧
+## 4. Which side buyers should stand on
 
-**[分析判断]** 出口采购者几乎都站 **AM 侧**——即便你是给品牌商供货，你做的也是「AM 代工」。这带来三个直接结论：
+**[Analytical Judgment]** Export buyers almost all stand on the **AM side** — even if you supply brand owners, what you do is "AM contract manufacturing". This brings three direct conclusions:
 
-1. **别用 OEM 的认证门槛吓自己**：AM 采购真正需要的是目标市场准入认证（EAC/GCC/INMETRO 等）+ 可选质量体系（ISO 9001/IATF 16949 框架），而非整车厂定点审核；
-2. **OE 对照号是适配的钥匙**：AM 采购靠 OE 号反向匹配车型，[data 站的 OE 交叉引用](https://data.hycarfilter.com/crossref/oe-cross-reference/) 就是干这个用的（参考性质）；
-3. **渠道比品牌更重要**：在 AM 侧，谁掌握分销渠道、谁贴近终端换件场景，谁就有话语权——供应商要做的，是帮采购者「好卖」，而不只是「便宜」。
+1. **Don't scare yourself with OEM certification thresholds**: what AM purchasing really needs is target-market entry certifications (EAC/GCC/INMETRO etc.) + optional quality systems (ISO 9001/IATF 16949 framework), not an automaker sourcing audit;
+2. **OE cross-reference numbers are the key to fitment**: AM purchasing matches vehicle models backward via OE numbers, and the [data site's OE cross-reference](https://data.hycarfilter.com/crossref/oe-cross-reference/) does exactly this (reference nature);
+3. **Channels matter more than brands**: on the AM side, whoever controls the distribution channels and stays close to the end replacement scenario has the bargaining power — what suppliers need to do is help buyers "sell well", not just "be cheap".
 
 ---
 
-*下一篇：[区域市场报告](../regional-reports/index.md)*
+*Next: [Regional Market Reports](../regional-reports/index.md)*

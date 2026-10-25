@@ -1,20 +1,20 @@
-# 行业概览
+# Industry Overview
 
-!!! note "来源性质"
-    本板块为编辑原创整合。**[行业常识]** = 行业通用做法；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。市场规模等**估算数据显式标注「估算参考 / for reference only」**。回链：[data 首页](https://data.hycarfilter.com) · [tech 首页](https://tech.hycarfilter.com)。
+!!! note "Source attribution"
+    This section is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Estimated data such as market size is **explicitly marked "estimated reference / for reference only"**. Backlinks: [data home](https://data.hycarfilter.com) · [tech home](https://tech.hycarfilter.com).
 
-汽车滤清器是一个「**保有量驱动、刚需高频、价格敏感、渠道为王**」的典型售后件行业。理解这个行业，要抓三根线：**全球市场有多大**、**中国产业带在哪里**、**供应链怎么分层（OEM / AM）**。本板块三篇分别展开。
+The automotive filter is a typical aftermarket-part industry "**driven by vehicle parc, high-frequency rigid demand, price-sensitive, channel-first**". To understand this industry, grasp three threads: **how big the global market is**, **where China's industrial belt is**, and **how the supply chain is layered (OEM / AM)**. The three articles in this section each elaborate on one of these.
 
-## 三篇导览
+## Three-article overview
 
-| 篇目 | 核心问题 | 关键结论（先睹） |
+| Article | Core question | Key conclusion (preview) |
 |---|---|---|
-| [全球市场规模与格局](global-market.md) | 市场多大、谁在主导 | 全球滤清器市场**百亿美元量级**，后市场（AM）占大头，头部品牌集中但区域长尾分散 |
-| [中国滤清器产业集群](china-cluster.md) | 中国产能在哪、为什么是清河 | 清河县是「中国滤清器之乡」，**产业集群 + 出口型 OEM/ODM 工厂**，性价比与交期是核心优势 |
-| [供应链结构 (OEM/AM)](supply-chain.md) | OEM 与 AM 怎么分、采购者站哪 | OEM 绑定整车厂、AM 走渠道分销；出口采购者几乎都站 AM 侧 |
+| [Global Market Size and Landscape](global-market.md) | How big the market is, who dominates | The global filter market is **on the order of tens of billions of dollars**, the aftermarket (AM) takes the majority, leading brands are concentrated but the regional long tail is dispersed |
+| [China's Filter Industry Cluster](china-cluster.md) | Where China's production capacity is, why Qinghe | Qinghe County is the "hometown of Chinese filters", **industry cluster + export-oriented OEM/ODM factories**, cost-performance and lead time are the core advantages |
+| [Supply Chain Structure (OEM/AM)](supply-chain.md) | How OEM and AM are split, which side buyers stand on | OEM is bound to automakers, AM goes through channel distribution; export buyers almost all stand on the AM side |
 
-## 为什么先看行业概览
+## Why read the industry overview first
 
-**[分析判断]** 出口采购者最容易犯的错，是「直接进产品页比价，跳过了行业框架」。但滤清器行业的利润结构和采购决策，是被**区域需求差异、OEM/AM 分层、产业带成本结构**这三个前置变量决定的。不先看清这三个变量，选型再便宜也可能卖不出去——因为卖到中东的机滤和卖到欧洲的机滤，本质上是「两种生意」。
+**[Analytical Judgment]** The mistake export buyers most easily make is "going straight into product pages to compare prices and skipping the industry framework". But the profit structure and purchasing decisions of the filter industry are determined by three upstream variables: **regional demand differences, the OEM/AM layering, and the industrial belt's cost structure**. Without first understanding these three variables, even a cheap selection may not sell — because an oil filter sold to the Middle East and one sold to Europe are essentially "two different businesses".
 
-建议顺序：**先读全球市场**（建立量级感）→ **再读产业集群**（理解中国供应端）→ **最后读供应链结构**（定位自己站在哪一侧）。之后带着这个框架进入[区域市场报告](../regional-reports/index.md)。
+Suggested order: **read the global market first** (build a sense of scale) → **then read the industry cluster** (understand China's supply side) → **finally read the supply chain structure** (position which side you stand on). Then enter the [regional market reports](../regional-reports/index.md) with this framework in mind.

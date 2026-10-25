@@ -1,27 +1,27 @@
-# 采购指南
+# Purchasing Guide
 
-!!! note "来源性质"
-    本板块为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 流程/清关框架介绍，**不构成法律或合规结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。回链：[data 首页](https://data.hycarfilter.com) · [tech 出口质检](https://tech.hycarfilter.com/qc/export-inspection/)。
+!!! note "Source attribution"
+    This section is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to process/customs clearance frameworks, **not constituting legal or compliance conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Backlinks: [data home](https://data.hycarfilter.com) · [tech export inspection](https://tech.hycarfilter.com/qc/export-inspection/).
 
-采购是「**把不确定性一步步变成确定性**」的过程。滤清器出口采购涉及询价、样单、验厂、验货、物流、清关六大环节，每个环节都有常见的坑。本板块两篇：一篇讲**全流程怎么走**，一篇讲**误区怎么避**。
+Purchasing is the process of "**turning uncertainty into certainty step by step**". Filter export procurement involves six stages — inquiry, sample order, factory audit, inspection, logistics, and customs clearance — each with common pitfalls. This section has two articles: one on **how the full flow works**, and one on **how to avoid the pitfalls**.
 
-## 两篇导览
+## Two-article overview
 
-| 篇目 | 核心问题 |
+| Article | Core question |
 |---|---|
-| [出口采购全流程](export-procurement-flow.md) | 询价 → 样单 → 验厂 → 验货 → 物流 → 清关 六步怎么走 |
-| [常见采购误区](common-pitfalls.md) | 只比价、忽略验厂、跳过样单、轻视验货等常见坑 |
+| [Full Export Procurement Flow](export-procurement-flow.md) | How the six steps of inquiry → sample order → factory audit → inspection → logistics → customs clearance work |
+| [Common Purchasing Pitfalls](common-pitfalls.md) | Common pitfalls such as only comparing prices, skipping factory audits, skipping sample orders, and neglecting inspection |
 
-## 采购者的三条底层原则
+## Three underlying principles for buyers
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **先选型，再比价**：选型（OE 对照号 + 适配车型 + 工况 + 认证）做对了，价格才有意义；选型错，再便宜也是库存。
-2. **样单验厂验货是「保险」，不是「成本」**：跳过这三步省下的钱，通常会在退货、索赔里加倍还回去。
-3. **把「交期 + 品质 + 合规」写进合同**：口头承诺不构成保障，书面条款 + 检验标准才是采购的护城河。
+1. **Select first, then compare prices**: only when selection (OE cross-reference numbers + fitment models + operating conditions + certification) is done correctly does price have meaning; with wrong selection, even cheap is just inventory.
+2. **Sample orders, factory audits, and inspections are "insurance", not "cost"**: the money saved by skipping these three steps is usually paid back doubly in returns and claims.
+3. **Put "lead time + quality + compliance" in the contract**: verbal promises are not guarantees; written terms + inspection standards are the buyer's moat.
 
-**[数据引用]** 选型所需的 OE 对照号、适配车型、规格数据，以 [data.hycarfilter](https://data.hycarfilter.com) 的 canonical 数据集为准（OE 对照当前为参考性质）；质检环节的检验项可参考 [tech 站的出货/出口质检](https://tech.hycarfilter.com/qc/export-inspection/)。
+**[Data Citation]** The OE cross-reference numbers, fitment models, and spec data needed for selection are subject to the canonical dataset of [data.hycarfilter](https://data.hycarfilter.com) (OE cross-reference is currently reference in nature); the inspection items in the quality control stage can refer to the [tech site's shipping/export inspection](https://tech.hycarfilter.com/qc/export-inspection/).
 
 ---
 
-*下一篇：[出口采购全流程](export-procurement-flow.md)*
+*Next: [Full Export Procurement Flow](export-procurement-flow.md)*

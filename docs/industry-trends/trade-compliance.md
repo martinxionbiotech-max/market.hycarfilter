@@ -1,64 +1,64 @@
-# 反倾销与贸易合规
+# Anti-dumping and Trade Compliance
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 贸易合规/准入框架介绍，**不构成法律或合规结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。**本文不提供法律意见，具体以目标国现行法规与专业机构意见为准。**
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to trade compliance/market entry frameworks, **not constituting legal or compliance conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). **This article does not provide legal advice; specifics are subject to the target country's current regulations and professional institution opinions.**
 
-## 一、为什么要谈贸易合规
+## 1. Why talk about trade compliance
 
-**[行业常识]** 滤清器是典型的「大宗低值易损件」，出口量大、SKU 多、涉及多国市场。贸易合规的雷区主要集中在四类：
+**[Industry Knowledge]** Filters are a typical "bulk, low-value wear part", with large export volumes, many SKUs, and involvement across many national markets. The minefields of trade compliance are concentrated in four types:
 
-| 风险类型 | 常见情形（框架参考） | 影响 |
+| Risk type | Common situations (framework reference) | Impact |
 |---|---|---|
-| 反倾销 / 反补贴 | 目标国对中国产滤清器发起贸易救济调查 | 加征关税、市场关闭 |
-| 原产地规则 | 转口/加工贸易下的原产地认定争议 | 关税优惠失效、合规风险 |
-| 认证/准入 | EAC/GCC/INMETRO/CE 等准入认证缺失 | 清关受阻、退货 |
-| HS 归类 | 品类归错 HS 编码导致税率/监管差异 | 补税、处罚、延误 |
+| Anti-dumping / countervailing | Target countries launch trade remedy investigations against Chinese-made filters | Added tariffs, market closure |
+| Rules of origin | Origin determination disputes under transit/processing trade | Loss of tariff preferences, compliance risk |
+| Certification / market entry | Missing EAC/GCC/INMETRO/CE entry certifications | Customs clearance blocked, returns |
+| HS classification | Wrong HS code leads to tariff/regulatory differences | Back taxes, penalties, delays |
 
-**[框架参考]** 以上为**常识性框架介绍，不构成法律结论**——反倾销是否对某品类立案、原产地如何认定、认证是否强制，**均以目标国现行法规为准**，出口前应咨询专业报关行/律所。
+**[Framework Reference]** The above is a **common-knowledge framework introduction, not a legal conclusion** — whether anti-dumping has been filed against a category, how rules of origin are determined, and whether certification is mandatory **are all subject to the target country's current regulations**, and professional customs brokers/law firms should be consulted before export.
 
-## 二、反倾销的常识框架
+## 2. The common-knowledge framework of anti-dumping
 
-**[行业常识]** 部分国家和地区对中国汽车零部件（含滤清器）存在或曾存在贸易救济措施。滤清器作为汽车零部件的一个子类，可能被纳入相关调查范围。
+**[Industry Knowledge]** Some countries and regions have or have had trade remedy measures against Chinese automotive parts (including filters). As a subcategory of automotive parts, filters may be included in the scope of relevant investigations.
 
-**[分析判断]** 出口采购者与供应商面对反倾销，最务实的做法不是「猜」，而是**建立合规预检机制**：
+**[Analytical Judgment]** Facing anti-dumping, the most pragmatic approach for export buyers and suppliers is not to "guess", but to **build a compliance pre-check mechanism**:
 
-1. **出口前查目标国**：查询目标国是否对「汽车滤清器」相关 HS 编码（如 842131/842123）有贸易救济措施；
-2. **保留原产地证据**：生产记录、采购凭证、加工增值证明，以备原产地核查；
-3. **关注税率变化**：贸易救济税率会定期复审调整，需持续跟踪。
+1. **Check the target country before export**: check whether the target country has trade remedy measures against "automotive filter"-related HS codes (e.g. 842131/842123);
+2. **Keep rules-of-origin evidence**: production records, purchase vouchers, and processing value-added proof, for potential origin verification;
+3. **Track tariff changes**: trade remedy tariff rates are periodically reviewed and adjusted, and require continuous tracking.
 
-**[数据引用]** 滤清器主要 HS 编码（空气滤/空调滤 8421310000、机油滤/燃油滤 8421230000、雨刮 8512400000、变速箱滤网 8708409990、LED 车灯 8512209000）——与 [data.hycarfilter](https://data.hycarfilter.com) 同值。**HS 归类是否正确，直接决定税率与监管待遇**。
+**[Data Citation]** The main HS codes for filters (air filter/cabin filter 8421310000, oil filter/fuel filter 8421230000, wiper blade 8512400000, transmission filter screen 8708409990, LED lights 8512209000) — identical in value to [data.hycarfilter](https://data.hycarfilter.com). **Whether the HS classification is correct directly determines tariff and regulatory treatment.**
 
-## 三、认证/准入框架速查
+## 3. Quick reference for certification/market entry frameworks
 
-**[框架参考]** 常见目标市场的准入/合规框架（不构成法律结论）：
+**[Framework Reference]** Common target-market entry/compliance frameworks (not constituting legal conclusions):
 
-| 市场 | 准入/合规框架 | 说明 |
+| Market | Entry/compliance framework | Note |
 |---|---|---|
-| 欧洲 | CE（LED 类）/ REACH / RoHS | 环保合规 + 质量体系框架 |
-| 中东 | GCC 认证框架 | 海湾国家协调标准 |
-| 俄罗斯/欧亚 | EAC 认证框架 | 欧亚经济联盟强制框架 |
-| 巴西 | INMETRO 认证框架 | 部分汽车零部件合格评定 |
-| 东南亚 | 各国进口许可差异大 | 以目标国为准 |
+| Europe | CE (LED types) / REACH / RoHS | Environmental compliance + quality system framework |
+| Middle East | GCC certification framework | Gulf states coordinated standards |
+| Russia/Eurasia | EAC certification framework | Eurasian Economic Union mandatory framework |
+| Brazil | INMETRO certification framework | Conformity assessment for some automotive parts |
+| Southeast Asia | Large differences in each country's import licensing | Subject to the target country |
 
-> 注：以上与 [tech 站「主要出口市场标准差异」](https://tech.hycarfilter.com/standards/export-market-diff/) 同口径，**均不构成认证声明**。
+> Note: the above shares the same scope as the [tech site's "Main export market standard differences"](https://tech.hycarfilter.com/standards/export-market-diff/) and **does not constitute a certification statement**.
 
-## 四、合规的「三层防线」
+## 4. The "three-layer defense line" of compliance
 
-**[分析判断]** 贸易合规不是「出问题了再处理」，而是「**事前、事中、事后」三层防线**：
+**[Analytical Judgment]** Trade compliance is not "handle it after a problem arises" but a "**before, during, after**" three-layer defense line:
 
-1. **事前**：目标国法规预检 + HS 归类核对 + 认证清单确认；
-2. **事中**：原产地证据留存 + 报关文件一致性 + 标签/包装合规；
-3. **事后**：清关异常的响应预案 + 文件归档追溯。
+1. **Before**: target-country regulation pre-check + HS classification verification + certification list confirmation;
+2. **During**: retention of rules-of-origin evidence + consistency of customs documents + label/packaging compliance;
+3. **After**: response plans for customs clearance anomalies + document archiving and traceability.
 
-## 五、给采购者的结论
+## 5. Conclusions for buyers
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **把「合规预检」做成固定动作**：每接一个新市场订单，先过一遍「反倾销/原产地/认证/HS 归类」四查，而不是出事再补救。
-2. **HS 归类是地基**：归错 HS 编码，后面所有的税率、认证、监管都会跑偏——**这是成本最低、收益最高的合规动作**。
-3. **认证文件要「可追溯」**：证书、检测报告、原产地证明要归档可查，别等到清关被卡才翻箱倒柜。
-4. **专业事交给专业人**：本文只是常识框架，**具体的反倾销、原产地、认证问题，务必咨询专业报关行与合规律所**。
+1. **Make "compliance pre-check" a fixed action**: for every new market order, run through the four checks of "anti-dumping/rules of origin/certification/HS classification" first, rather than remedying after an incident.
+2. **HS classification is the foundation**: with the wrong HS code, all subsequent tariffs, certifications, and regulations will go off track — **this is the lowest-cost, highest-return compliance action**.
+3. **Certification documents must be "traceable"**: certificates, test reports, and certificates of origin must be archived and retrievable; don't wait until customs clearance is stuck to rummage through boxes.
+4. **Leave professional matters to professionals**: this article is only a common-knowledge framework; **for specific anti-dumping, rules-of-origin, and certification questions, be sure to consult professional customs brokers and compliance law firms**.
 
 ---
 
-*下一篇：[采购指南](../purchasing-guide/index.md)*
+*Next: [Purchasing Guide](../purchasing-guide/index.md)*

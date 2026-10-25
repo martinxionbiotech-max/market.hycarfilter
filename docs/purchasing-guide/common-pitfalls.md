@@ -1,64 +1,64 @@
-# 常见采购误区
+# Common Purchasing Pitfalls
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 合规/认证框架介绍，**不构成法律或认证结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。回链：[出口采购全流程](export-procurement-flow.md)。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to compliance/certification frameworks, **not constituting legal or certification conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Backlinks: [Full Export Procurement Flow](export-procurement-flow.md).
 
-滤清器出口采购的坑，大多是「**为了省小钱/图省事，最后付大代价**」。本文列出八类高频误区。
+Most pitfalls in filter export procurement are "**saving small money or cutting corners, and ending up paying a big price**". This article lists eight categories of high-frequency pitfalls.
 
-## 误区一：只看价格，不看选型
+## Pitfall 1: looking only at price, not selection
 
-**[分析判断]** 最常见的误区：拿到报价单只看单价，不看「这个型号适配什么车型」。**滤清器是「适配驱动」的品类**——买错适配，再便宜也是滞销库存。
+**[Analytical Judgment]** The most common pitfall: taking a quote and looking only at unit price, without looking at "which vehicle models this model fits". **Filters are a "fitment-driven" category** — buying the wrong fitment means even cheap is dead inventory.
 
-**正确姿势**：先锁定 OE 对照号与适配车型（[data 站 OE 交叉引用](https://data.hycarfilter.com/crossref/oe-cross-reference/) 为参考性质），再谈价格。
+**Correct approach**: first lock in the OE cross-reference numbers and fitment models (the [data site's OE cross-reference](https://data.hycarfilter.com/crossref/oe-cross-reference/) is reference in nature), then talk price.
 
-## 误区二：跳过样单，直接下大单
+## Pitfall 2: skipping the sample order and going straight to a large order
 
-**[分析判断]** 「样品太麻烦，直接下单吧」——这是新手采购最贵的错误。样单花小钱，验证「实物 vs 描述」；跳过样单，等于**把「货不对板」的风险全部押在整票大单上**。
+**[Analytical Judgment]** "Samples are too troublesome, let's just order directly" — this is the most expensive mistake for novice buyers. A sample order spends a little money to verify "physical item vs description"; skipping it means **putting the entire "goods don't match the description" risk on the whole large order**.
 
-**正确姿势**：任何批量订单前，先下样单验证尺寸/材质/效率/包装/品牌印字。
+**Correct approach**: before any bulk order, place a sample order first to verify dimensions/material/efficiency/packaging/brand printing.
 
-## 误区三：不验厂，轻信「我们是工厂」
+## Pitfall 3: no factory audit, trusting "we are a factory"
 
-**[分析判断]** 滤清器行业「贸易商冒充工厂」泛滥。不验厂，你可能买到的是「加了一道手的货」——品质与价格都不可控。
+**[Analytical Judgment]** In the filter industry, "trading companies posing as factories" are rampant. Without a factory audit, you may end up buying "goods that have passed through an extra hand" — with uncontrollable quality and price.
 
-**正确姿势**：验厂看三样——**生产线在不在跑、滤纸库存足不足、QC 设备有没有在用**。看这三样，真假立判。
+**Correct approach**: a factory audit looks at three things — **whether the production line is running, whether the filter paper inventory is sufficient, and whether the QC equipment is in use**. Look at these three and the truth is immediately clear.
 
-## 误区四：不验货，货上船了才发现问题
+## Pitfall 4: no inspection, only finding problems after the goods are on the ship
 
-**[分析判断]** 「供应商是老朋友，不用验」——结果货到港发现密封圈老化、滤纸受潮、数量短缺，**上船后补救成本极高**。
+**[Analytical Judgment]** "The supplier is an old friend, no need to inspect" — only to find upon arrival that seal rings are aged, filter paper is damp, and quantities are short, **with extremely high remediation costs after the ship has sailed**.
 
-**正确姿势**：出货前第三方验货，机滤加验密封圈回弹与旁通阀，这是中东/俄区退货高发点。
+**Correct approach**: pre-shipment third-party inspection; for oil filters add seal ring rebound and bypass valve checks — these are high-frequency return points in the Middle East/Russia region.
 
-## 误区五：忽视包装与防潮
+## Pitfall 5: neglecting packaging and moisture protection
 
-**[分析判断]** 滤清器是「跨洋 + 轻货」，**防潮（干燥剂/VCI/隔潮托盘）是隐形质量线**。很多退货不是产品不行，而是**海运受潮、金属件生锈**。
+**[Analytical Judgment]** Filters are "transoceanic + light cargo", and **moisture protection (desiccant/VCI/moisture-barrier pallets) is the invisible quality line**. Many returns are not because the product is bad, but because of **ocean-transit moisture and rusted metal parts**.
 
-**正确姿势**：把防潮包装写进合同，装箱方案与装箱量以 [data 站出口装箱数据](https://data.hycarfilter.com/crossref/export-packing/) 为准。
+**Correct approach**: write moisture-proof packaging into the contract; loading plans and quantities are subject to the [data site's export packing data](https://data.hycarfilter.com/crossref/export-packing/).
 
-## 误区六：认证当「万能通行证」或「可有可无」
+## Pitfall 6: treating certification as a "universal pass" or as "optional"
 
-**[分析判断]** 两个极端都错：要么以为「有一张证书全球通吃」，要么「认证不重要，便宜就行」。真相是：**认证是「准入门票」，不是「万能钥匙」**；不同市场认证不同（EAC/GCC/INMETRO/CE），且**认证 ≠ 产品性能背书**。
+**[Analytical Judgment]** Both extremes are wrong: either assuming "one certificate works globally", or "certification doesn't matter, cheap is enough". The truth is: **certification is an "entry ticket", not a "universal key"**; different markets have different certifications (EAC/GCC/INMETRO/CE), and **certification ≠ product performance endorsement**.
 
-**[框架参考]** 认证框架不构成认证声明，详见 [tech 站标准边界说明](https://tech.hycarfilter.com/standards/iso-sae/)。**采购者应看「测试方法 + 第三方报告」，而非口头「XX 认证」。**
+**[Framework Reference]** The certification framework does not constitute a certification statement; see the [tech site's standard boundary explanation](https://tech.hycarfilter.com/standards/iso-sae/). **Buyers should look at "test methods + third-party reports", not verbal "XX certification".**
 
-## 误区七：HS 归类随意
+## Pitfall 7: careless HS classification
 
-**[分析判断]** HS 编码归错，导致税率、监管、原产地待遇全跑偏——补税、处罚、延误，代价远超省下的时间。
+**[Analytical Judgment]** A wrong HS code throws tariffs, regulations, and rules-of-origin treatment all off track — back taxes, penalties, and delays cost far more than the time saved.
 
-**[数据引用]** 滤清器主要 HS 编码：空气滤/空调滤 **8421310000**、机油滤/燃油滤 **8421230000**、雨刮 **8512400000**、变速箱滤网 **8708409990**、LED 车灯 **8512209000**——与 [data.hycarfilter](https://data.hycarfilter.com) 同值。
+**[Data Citation]** The main HS codes for filters: air filter/cabin filter **8421310000**, oil filter/fuel filter **8421230000**, wiper blade **8512400000**, transmission filter screen **8708409990**, LED lights **8512209000** — identical in value to [data.hycarfilter](https://data.hycarfilter.com).
 
-## 误区八：忽视回款与账期风控
+## Pitfall 8: neglecting payment collection and credit-term risk control
 
-**[分析判断]** 尤其在中东、非洲、拉美市场，「大单诱惑」常伴随「长账期 + 高回款风险」。**宁可不做，不可坏账。**
+**[Analytical Judgment]** Especially in the Middle East, Africa, and Latin America markets, the "big order temptation" is often accompanied by "long credit terms + high collection risk". **Better to not do it than to have a bad debt.**
 
-**正确姿势**：坚持预付/T/T 或信用证，控制放账比例，新客户小额试单起步。
+**Correct approach**: insist on prepayment/T/T or letter of credit, control the credit exposure ratio, and start new customers with small trial orders.
 
-## 小结：八误区的共同病灶
+## Summary: the common root of the eight pitfalls
 
-**[分析判断]** 八个误区的共同病灶，是**「图省事 / 图便宜，跳过验证环节」**。滤清器出口采购的本质，是**用「小钱 + 时间」把风险验证掉**——选型、样单、验厂、验货、防潮、认证、HS、风控，每一步都是「保险」。
+**[Analytical Judgment]** The common root of the eight pitfalls is **"cutting corners / seeking cheapness by skipping the verification steps"**. The essence of filter export procurement is **using "small money + time" to verify away risk** — selection, sample order, factory audit, inspection, moisture protection, certification, HS, and risk control are all "insurance" at every step.
 
-**记牢一句话：省下的每一步验证，都会在退货和索赔里加倍还回来。**
+**Remember one sentence: every verification step you skip will be paid back doubly in returns and claims.**
 
 ---
 
-*下一篇：[行业数据参考表](../data-reference/market-data-table.md)*
+*Next: [Industry Data Reference](../data-reference/market-data-table.md)*

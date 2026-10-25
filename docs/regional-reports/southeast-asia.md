@@ -1,61 +1,61 @@
-# 东南亚市场报告
+# Southeast Asia Market Report
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 准入/合规框架介绍，**不构成认证或法律结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。市场规模相关数据为**估算参考 / for reference only**。回链：[tech 出口市场标准差异](https://tech.hycarfilter.com/standards/export-market-diff/)。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to market entry/compliance frameworks, **not constituting certification or legal conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Market-size-related data is **estimated reference / for reference only**. Backlinks: [tech export market standard differences](https://tech.hycarfilter.com/standards/export-market-diff/).
 
-## 一、市场需求特征
+## 1. Market demand characteristics
 
-**[行业常识]** 东南亚（泰国、印尼、越南、马来西亚、菲律宾等）是**价格敏感 + 热带高湿**的典型市场：
+**[Industry Knowledge]** Southeast Asia (Thailand, Indonesia, Vietnam, Malaysia, the Philippines, etc.) is a typical **price-sensitive + tropical high-humidity** market:
 
-- **日系车保有量主导**：丰田、本田、铃木、三菱等日系车占绝对主流，OE 对照号以日系件号为核心；
-- **热带高湿**：滤纸防潮、金属件防腐（盐雾）是硬需求；
-- **价格敏感**：基础款（管路燃油滤、颗粒空调滤）需求大，走量为主；
-- **摩托车与两轮车生态**：大量两轮/三轮车，对应小尺寸滤清器与配件需求。
+- **Japanese-brand parc dominant**: Toyota, Honda, Suzuki, Mitsubishi and other Japanese brands are the absolute mainstream, and OE cross-reference numbers center on Japanese part numbers;
+- **Tropical high humidity**: filter paper moisture protection and metal-part corrosion resistance (salt spray) are hard requirements;
+- **Price-sensitive**: basic models (inline fuel filters, particulate cabin filters) have large demand, mainly for volume;
+- **Motorcycle and two-wheeler ecosystem**: many two/three-wheelers, corresponding to small-size filters and accessory demand.
 
-## 二、进口渠道结构
+## 2. Import channel structure
 
-**[行业常识]** 东南亚进口渠道以**分销商 + 本地汽配市场**为主：
+**[Industry Knowledge]** Southeast Asia's import channels are mainly **distributors + local auto-parts markets**:
 
-| 渠道 | 特征 | 对中国供应商的意义 |
+| Channel | Characteristics | Significance for Chinese suppliers |
 |---|---|---|
-| 区域分销商 | 覆盖一国或数国 | 主流入口 |
-| 本地汽配批发市场 | 价格透明、走量快 | 低价基础款主战场 |
-| 日系车企售后体系 | 原厂件/优质 AM | 需 OE 对照号适配 |
-| 电商/跨境（Lazada、Shopee 等） | 增长快 | 白牌与品牌化机会 |
+| Regional distributors | Cover one or several countries | Mainstream entry |
+| Local auto-parts wholesale markets | Transparent prices, fast volume | Main battleground for low-price basic models |
+| Japanese automaker aftermarket systems | Original parts / quality AM | Requires OE cross-reference fitment |
+| E-commerce / cross-border (Lazada, Shopee, etc.) | Fast growth | White-label and branding opportunity |
 
-**[分析判断]** 东南亚是**「中国货 vs 泰国/越南本土 + 印尼组装」的三方竞争**。东盟内部有关税优惠（东盟自贸区），**中国直供要面对东盟内部零关税货源的价格压力**——这是东南亚不同于中东、非洲的关键变量。
+**[Analytical Judgment]** Southeast Asia is a **three-way competition of "Chinese goods vs Thailand/Vietnam local + Indonesia assembly"**. Within ASEAN there are tariff preferences (ASEAN Free Trade Area), and **Chinese direct supply faces price pressure from zero-tariff intra-ASEAN sourcing** — this is the key variable that distinguishes Southeast Asia from the Middle East and Africa.
 
-## 三、竞争格局
+## 3. Competitive landscape
 
-**[行业常识]** 东南亚竞争格局呈现「**日系原厂 + 日本品牌 AM（Denso 等）+ 本土品牌 + 中国白牌**」的多元结构。
+**[Industry Knowledge]** Southeast Asia's competitive landscape shows a diverse structure of "**Japanese original parts + Japanese-brand AM (Denso etc.) + local brands + Chinese white labels**".
 
-**[分析判断]** 中国工厂在东南亚的机会在**「日系适配 + 基础款走量」**：
+**[Analytical Judgment]** Chinese factories' opportunity in Southeast Asia lies in "**Japanese-brand fitment + basic models in volume**":
 
-- 日系车保有量大，谁做好**日系 OE 对照号适配**，谁就能吃到最大的一块；
-- 基础款（颗粒空调滤、管路燃油滤）走量，但利润薄，靠规模与交期；
-- 泰国、印尼有本地组装能力，中国直供要与**本地组装 + 东盟关税**竞争，**差异化在于「中国完整供应链的品类齐全与交期」**。
+- The Japanese-brand parc is large, and whoever does **Japanese OE cross-reference fitment** well captures the largest slice;
+- Basic models (particulate cabin filters, inline fuel filters) move in volume but have thin margins, relying on scale and lead time;
+- Thailand and Indonesia have local assembly capability, so Chinese direct supply competes with **local assembly + ASEAN tariffs**, and the **differentiator lies in "the category completeness and lead time of China's full supply chain"**.
 
-## 四、采购者决策因素
+## 4. Buyer decision factors
 
-**[分析判断]** 东南亚采购者的决策权重排序：
+**[Analytical Judgment]** The decision-weight ranking of Southeast Asian buyers:
 
-1. **价格**：第一权重，价格敏感市场；
-2. **日系 OE 对照适配**：能否覆盖主流日系车型，决定 SKU 是否「好卖」；
-3. **防潮防腐**：热带高湿下滤纸受潮、金属件生锈是常见退货原因；
-4. **交期**：走量市场补货频繁，交期即周转。
+1. **Price**: the top weight, a price-sensitive market;
+2. **Japanese OE cross-reference fitment**: whether mainstream Japanese models are covered determines whether the SKU "sells well";
+3. **Moisture and corrosion protection**: filter paper dampness and metal-part rusting under tropical high humidity are common return causes;
+4. **Lead time**: a volume market with frequent restocking, lead time is turnover.
 
-**[数据引用]** 面向东南亚湿热工况，data 站中带防潮包装、管路燃油滤（`hy-ff-inline`）、颗粒空调滤（`hy-cf-particle`）是典型匹配，`target_markets` 字段含 **Southeast Asia**——与 [data.hycarfilter](https://data.hycarfilter.com) 同值。
+**[Data Citation]** For Southeast Asia's hot-humid operating conditions, the data site's moisture-proof packaging, inline fuel filters (`hy-ff-inline`), and particulate cabin filters (`hy-cf-particle`) are typical matches, with the `target_markets` field containing **Southeast Asia** — identical in value to [data.hycarfilter](https://data.hycarfilter.com).
 
-## 五、市场进入建议（原创观点）
+## 5. Market entry recommendations (original opinion)
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **死磕日系 OE 对照号**：东南亚的胜负手不是「再便宜一点」，而是「你覆盖了多少日系车型」——把 OE 对照号做全、做准，比任何营销都管用。
-2. **用「防潮」做产品差异化**：把滤纸防潮、金属件盐雾防腐做成显性卖点，直接回应热带退货痛点。
-3. **基础款走量 + 高值款试探**：先用颗粒空调滤、管路燃油滤等基础款建立走量关系，再逐步推 HEPA 空调滤等升级款。
-4. **考虑本地仓储或近岸合作**：东盟关税压力下，可评估与本地分销商/组装厂的合作，或借本地仓贴近补货。
-5. **别忽视两轮车生态**：东南亚两轮/三轮车保有量巨大，对应的小尺寸滤清器是一个被低估的增量。
+1. **Double down on Japanese OE cross-reference numbers**: Southeast Asia's winning factor is not "a bit cheaper" but "how many Japanese models you cover" — making OE cross-reference numbers complete and accurate works better than any marketing.
+2. **Differentiate the product with "moisture protection"**: make filter paper moisture protection and metal-part salt-spray corrosion resistance explicit selling points that directly address tropical return pain points.
+3. **Basic models in volume + high-value models as probes**: first build volume relationships with basic models like particulate cabin filters and inline fuel filters, then gradually push upgrade models like HEPA cabin filters.
+4. **Consider local warehousing or nearshore cooperation**: under ASEAN tariff pressure, evaluate cooperation with local distributors/assembly plants, or use local warehouses to stay close to restocking.
+5. **Don't overlook the two-wheeler ecosystem**: Southeast Asia has a huge two/three-wheeler parc, and the corresponding small-size filters are an underestimated increment.
 
 ---
 
-*下一篇：[拉美市场报告](latin-america.md)*
+*Next: [Latin America Market Report](latin-america.md)*

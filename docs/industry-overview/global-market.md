@@ -1,53 +1,53 @@
-# 全球汽车滤清器市场：规模、格局与区域
+# Global Automotive Filter Market: Size, Landscape, and Regions
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。**市场规模区间为「估算参考 / for reference only」**，非权威统计值，仅供量级参考。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). **The market size ranges are "estimated reference / for reference only"**, not authoritative statistics, serving only for order-of-magnitude reference.
 
-## 一、市场规模量级（估算参考）
+## 1. Market size order of magnitude (estimated reference)
 
-**[数据引用｜估算参考 · for reference only]** 汽车滤清器是全球汽车零部件后市场中「体量不大、但复购极强」的品类。以下为**量级区间估算**，非权威统计，仅供建立量级感：
+**[Data Citation | Estimated reference · for reference only]** The automotive filter is a category in the global automotive parts aftermarket that is "not huge in volume, but with extremely strong repeat purchases". The following are **order-of-magnitude range estimates**, not authoritative statistics, serving only to build a sense of scale:
 
-| 维度 | 估算区间（for reference only） | 说明 |
+| Dimension | Estimated range (for reference only) | Note |
 |---|---|---|
-| 全球汽车滤清器市场规模 | **约 100–200 亿美元 / 年** | 含空气滤、机油滤、燃油滤、空调滤（不含雨刮/车灯） |
-| 全球年复合增速 | **约 3%–6%** | 成熟市场低增长，新兴市场高增长 |
-| 后市场（AM）占比 | **约 70%–80%** | 保有量换件驱动，远大于 OE 配套 |
-| OE 配套占比 | **约 20%–30%** | 绑定新车产量，随新车周期波动 |
+| Global automotive filter market size | **approx. USD 10–20 billion / year** | includes air filters, oil filters, fuel filters, cabin filters (excluding wiper blades/lights) |
+| Global annual compound growth rate | **approx. 3%–6%** | low growth in mature markets, high growth in emerging markets |
+| Aftermarket (AM) share | **approx. 70%–80%** | driven by parc replacement demand, far larger than OE supply |
+| OE supply share | **approx. 20%–30%** | tied to new-vehicle production, fluctuates with new-vehicle cycles |
 
-**[行业常识]** 滤清器市场规模的「真实数字」其实很难精确——因为品类口径不一（是否含雨刮、车灯、变速箱滤网）、统计源口径不同（出厂价 vs 零售价 vs 渠道批发价）。**采购者更应记住的是结构，而不是某个精确数字**：这是一个**百亿美元量级、低个位数到中个位数增长、后市场主导**的成熟行业。
+**[Industry Knowledge]** The "real figure" for filter market size is actually hard to pin down — because category scopes differ (whether wiper blades, lights, and transmission filter screens are included) and statistical-source scopes differ (factory price vs retail price vs channel wholesale price). **Buyers should remember the structure rather than any precise number**: this is a mature industry that is **on the order of tens of billions of dollars, with low-single-digit to mid-single-digit growth, and aftermarket-dominated**.
 
-## 二、市场格局：头部品牌 + 区域长尾
+## 2. Market landscape: leading brands + regional long tail
 
-**[行业常识]** 全球滤清器市场格局呈现「**头部品牌集中 + 区域长尾分散**」的双层结构：
+**[Industry Knowledge]** The global filter market landscape shows a two-layer structure of "**concentrated leading brands + dispersed regional long tail**":
 
-| 层级 | 代表玩家（行业常识） | 特征 |
+| Tier | Representative players (industry knowledge) | Characteristics |
 |---|---|---|
-| 全球品牌 | MANN+HUMMEL、Bosch、MAHLE、Sogefi、WIX/MANN 系、Fram、Donaldson（商用车）、Parker Racor | 技术 + 品牌 + OE 配套绑定，主攻欧美高价值市场 |
-| 区域品牌 | 各区域本土品牌（中东/拉美/东南亚各有当地强势牌） | 渠道 + 价格 + 本土服务，占据价格敏感市场 |
-| 白牌/ODM | 大量中国工厂（清河等产业带）的 OEM/ODM 代工与自主出口 | 成本 + 交期 + 定制，出口电商与分销商货源 |
+| Global brands | MANN+HUMMEL, Bosch, MAHLE, Sogefi, WIX/MANN group, Fram, Donaldson (commercial vehicles), Parker Racor | Technology + brand + OE supply binding, focused on high-value markets in Europe and North America |
+| Regional brands | Local brands in each region (the Middle East/Latin America/Southeast Asia each have strong local players) | Channel + price + local service, occupying price-sensitive markets |
+| White-label/ODM | OEM/ODM contract manufacturing and independent export by many Chinese factories (industrial belts such as Qinghe) | Cost + lead time + customization, the sourcing base for export e-commerce and distributors |
 
-**[分析判断]** 出口采购者真正要面对的，不是 MANN 和 Bosch——它们的 OE 件你抢不过，AM 件也有品牌溢价护城河。**中国出口工厂真正的竞争对手，是「同区域的另一家中国工厂」以及「目标国本土的区域品牌」**。所以采购决策的核心不是「比 MANN 便宜多少」，而是「在目标国，我的货源 + 价格 + 交期组合，能否赢过当地区域品牌和另一家中国同行」。
+**[Analytical Judgment]** What export buyers really face is not MANN and Bosch — you cannot win their OE parts, and their AM parts have a brand-premium moat. **The real competitors of Chinese export factories are "another Chinese factory in the same region" and "the local regional brands in the target country"**. So the core of purchasing decisions is not "how much cheaper than MANN", but "in the target country, whether my sourcing + price + lead time combination can beat the local regional brands and another Chinese peer".
 
-## 三、区域需求概览
+## 3. Regional demand overview
 
-**[行业常识]** 全球滤清器需求由「**汽车保有量 × 换件频率 × 工况强度**」决定，区域差异巨大：
+**[Industry Knowledge]** Global filter demand is determined by "**vehicle parc × replacement frequency × operating-condition intensity**", and regional differences are huge:
 
-| 区域 | 需求特征（行业常识） | 本仓深度报告 |
+| Region | Demand characteristics (industry knowledge) | In-depth report in this repo |
 |---|---|---|
-| 欧洲 | 保有量大、技术/环保门槛高、品牌忠诚 | [欧洲报告](../regional-reports/europe.md) |
-| 中东 | 高温多沙尘，空滤/空调滤高频换件 | [中东报告](../regional-reports/middle-east.md) |
-| 东南亚 | 价格敏感、热带高湿、日系车保有量主导 | [东南亚报告](../regional-reports/southeast-asia.md) |
-| 拉美 | 准入门槛不一、通胀影响采购、防潮关键 | [拉美报告](../regional-reports/latin-america.md) |
-| 非洲 | 二手/低端车保有、极端缺件、性价比至上 | [非洲报告](../regional-reports/africa.md) |
+| Europe | Large parc, high technical/environmental thresholds, brand loyalty | [Europe report](../regional-reports/europe.md) |
+| Middle East | High temperature and heavy dust, high-frequency replacement of air filters/cabin filters | [Middle East report](../regional-reports/middle-east.md) |
+| Southeast Asia | Price-sensitive, tropical high humidity, Japanese-brand parc dominant | [Southeast Asia report](../regional-reports/southeast-asia.md) |
+| Latin America | Uneven entry thresholds, inflation affects procurement, moisture protection is key | [Latin America report](../regional-reports/latin-america.md) |
+| Africa | Used/low-end vehicle parc, extreme parts shortage, cost-performance first | [Africa report](../regional-reports/africa.md) |
 
-## 四、对采购者的启示
+## 4. Implications for buyers
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **别用一个市场的逻辑套另一个市场**：中东买「耐高温高容灰」、欧洲买「体系 + 环保合规」、非洲买「极低价 + 防潮」，三者的产品、认证、包装、定价策略完全不同。
-2. **后市场是主战场**：70%–80% 的体量在后市场，出口采购者天然站 AM 侧，意味着**渠道（分销商/汽配连锁/电商）比品牌更重要**。
-3. **量级感比精确数字有用**：滤清器不是「百亿→千亿」的高增长赛道，而是「存量刚需 + 稳定现金流」的生意。采购者应据此设定合理的量价预期，而非追逐虚高增速叙事。
+1. **Don't apply one market's logic to another market**: the Middle East buys "high-temperature resistance and high dust-holding capacity", Europe buys "systems + environmental compliance", Africa buys "ultra-low price + moisture protection" — the three have completely different product, certification, packaging, and pricing strategies.
+2. **The aftermarket is the main battleground**: 70%–80% of the volume is in the aftermarket, and export buyers naturally stand on the AM side, which means **channels (distributors/auto-parts chains/e-commerce) matter more than brands**.
+3. **A sense of scale is more useful than a precise number**: filters are not a "tens-of-billions to hundreds-of-billions" high-growth track, but a business of "existing-vehicle rigid demand + stable cash flow". Buyers should set reasonable volume-and-price expectations accordingly, rather than chasing inflated growth narratives.
 
 ---
 
-*下一篇：[中国滤清器产业集群](china-cluster.md)*
+*Next: [China's Filter Industry Cluster](china-cluster.md)*

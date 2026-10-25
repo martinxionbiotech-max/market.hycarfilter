@@ -1,25 +1,25 @@
-# 行业信息与趋势
+# Industry Trends
 
-!!! note "来源性质"
-    本板块为编辑原创整合。**[行业常识]** = 行业通用做法；**[框架参考]** = 合规/准入框架介绍，**不构成认证或法律结论**；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。趋势性数据为**估算参考 / for reference only**。回链：[data 首页](https://data.hycarfilter.com) · [tech 首页](https://tech.hycarfilter.com)。
+!!! note "Source attribution"
+    This section is an editor's original compilation. **[Industry Knowledge]** = common industry practices; **[Framework Reference]** = introductions to compliance/market entry frameworks, **not constituting certification or legal conclusions**; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Trend data is **estimated reference / for reference only**. Backlinks: [data home](https://data.hycarfilter.com) · [tech home](https://tech.hycarfilter.com).
 
-滤清器行业的「变与不变」：**不变**的是「发动机/座舱必须过滤、滤芯必须周期更换」这一刚需；**变**的是需求结构（售后 vs OEM）、动力形式（电动化）、渠道形态（电商）、贸易环境（反倾销/合规）。本板块四篇逐一拆解这些结构性变化。
+The filter industry's "changes and constants": what is **constant** is the rigid demand that "the engine/cabin must be filtered and filter elements must be replaced periodically"; what **changes** is the demand structure (aftermarket vs OEM), the powertrain form (electrification), the channel form (e-commerce), and the trade environment (anti-dumping/compliance). The four articles in this section each unpack one of these structural changes.
 
-## 四篇导览
+## Four-article overview
 
-| 篇目 | 核心问题 | 关键结论（先睹） |
+| Article | Core question | Key conclusion (preview) |
 |---|---|---|
-| [售后市场 vs OEM](aftermarket-vs-oem.md) | 两条腿怎么走、谁在涨 | 售后市场是主战场，且随保有量持续扩张 |
-| [电动化对滤清器需求的影响](ev-impact.md) | 电车要不要滤清器 | EV 没有机油滤/燃油滤，但**空调滤仍在**，且车内空气质量诉求更强 |
-| [电商渠道趋势](ecommerce-channels.md) | 出口怎么走线上 | B2B 电商 + 独立站成为中小工厂低成本出海新渠道 |
-| [反倾销与贸易合规](trade-compliance.md) | 出口有哪些合规雷区 | 反倾销/原产地/认证是常识框架，**不构成法律结论**，须专业把关 |
+| [Aftermarket vs OEM](aftermarket-vs-oem.md) | How the two legs walk, which is growing | The aftermarket is the main battleground, and keeps expanding with the parc |
+| [Impact of Electrification on Filter Demand](ev-impact.md) | Do EVs need filters | EVs have no oil filters/fuel filters, but **the cabin filter remains**, and the demand for cabin air quality is even stronger |
+| [E-commerce Channel Trends](ecommerce-channels.md) | How exports go online | B2B e-commerce + independent sites have become a low-cost new channel for small and medium factories to go overseas |
+| [Anti-dumping and Trade Compliance](trade-compliance.md) | What compliance minefields exports face | Anti-dumping/rules of origin/certification are common-knowledge frameworks, **not legal conclusions**, and require professional review |
 
-## 为什么趋势对采购者重要
+## Why trends matter to buyers
 
-**[分析判断]** 采购者最容易「盯着眼前订单，忽略结构性趋势」，但趋势恰恰决定**你手里的 SKU 三五年后还好不好卖**：
+**[Analytical Judgment]** Buyers most easily "stare at the orders in front of them and ignore structural trends", but trends determine **whether the SKUs in your hands will still sell well three to five years from now**:
 
-- 押注「纯内燃机滤清器」的人，要提前想清楚电动化对机滤/燃油滤的长期影响；
-- 忽视「电商渠道」的人，会错过低成本触达海外买家的窗口；
-- 不重视「贸易合规」的人，可能因一纸反倾销或原产地问题让整票货卡关。
+- Those betting on "pure internal-combustion filters" should think ahead about the long-term impact of electrification on oil filters/fuel filters;
+- Those who ignore "e-commerce channels" will miss the window of reaching overseas buyers at low cost;
+- Those who don't take "trade compliance" seriously may have an entire shipment stuck in customs over a single anti-dumping or rules-of-origin issue.
 
-建议顺序：**先读售后 vs OEM**（理解需求大盘）→ **再读电动化**（理解长期变量）→ **再读电商**（理解渠道变量）→ **最后读合规**（理解风险底线）。
+Suggested order: **read aftermarket vs OEM first** (understand the demand base) → **then read electrification** (understand the long-term variable) → **then read e-commerce** (understand the channel variable) → **finally read compliance** (understand the risk floor).

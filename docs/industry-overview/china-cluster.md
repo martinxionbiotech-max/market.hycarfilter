@@ -1,52 +1,52 @@
-# 中国滤清器产业集群
+# China's Filter Industry Cluster
 
-!!! note "来源性质"
-    本文为编辑原创整合。**[行业常识]** = 行业通用做法与公开共识；**[数据引用]** = 引用 [data.hycarfilter](https://data.hycarfilter.com) 同值；**[分析判断]** = 研究员原创判断（小筑 ✍️）。产地规模相关数据为**估算参考 / for reference only**。
+!!! note "Source attribution"
+    This article is an editor's original compilation. **[Industry Knowledge]** = common industry practices and public consensus; **[Data Citation]** = citing values identical to [data.hycarfilter](https://data.hycarfilter.com); **[Analytical Judgment]** = the researcher's original judgment (Xiaozhu ✍️). Production-region scale data is **estimated reference / for reference only**.
 
-## 一、清河县：中国滤清器之乡
+## 1. Qinghe County: the hometown of Chinese filters
 
-**[行业常识]** 中国汽车滤清器产业高度集聚，其中**河北省邢台市清河县**是行业公认的「**中国滤清器之乡**」——与浙江温州、广东、江苏等地一起，构成中国滤清器的主要产地版图。清河一带的滤清器产业有以下公开共识特征：
+**[Industry Knowledge]** China's automotive filter industry is highly concentrated, and **Qinghe County, Xingtai City, Hebei Province** is the industry-recognized "**hometown of Chinese filters**" — together with Zhejiang Wenzhou, Guangdong, Jiangsu and other places, it forms the main production map of Chinese filters. The filter industry in the Qinghe area has the following publicly-recognized characteristics:
 
-| 特征 | 说明（行业常识） |
+| Characteristic | Description (industry knowledge) |
 |---|---|
-| 集群化 | 滤清器生产厂家与上下游（滤纸、PU 胶、五金、包装）高度集聚，配套半径短 |
-| 出口导向 | 大量工厂做 OEM/ODM 出口，承接全球售后市场订单 |
-| 成本优势 | 集群采购 + 规模生产 + 人工成本，形成显著性价比 |
-| 品类齐全 | 空气滤、机油滤、空调滤、燃油滤、变速箱滤网等全品类覆盖 |
-| 交期灵活 | 集群内配套快，中小批量订单交期优于零散产区 |
+| Clustering | Filter manufacturers and their upstream/downstream (filter paper, PU adhesive, hardware, packaging) are highly concentrated, with a short supporting radius |
+| Export-oriented | Many factories do OEM/ODM export, taking on orders from the global aftermarket |
+| Cost advantage | Cluster purchasing + scaled production + labor costs create significant cost-performance |
+| Full category coverage | Air filters, oil filters, cabin filters, fuel filters, transmission filter screens and other full-category coverage |
+| Flexible lead time | Fast supporting within the cluster; small and medium batch lead times are better than in scattered production regions |
 
-**[数据引用]** 本仓所属品牌 hycarfilter（河北红影汽车配件 / Hebei Hongying Automotive Parts Co., Ltd.）即位于清河县，成立于 2013 年——这一定位数据与 [data.hycarfilter](https://data.hycarfilter.com) 首页一致。
+**[Data Citation]** The brand hycarfilter to which this repo belongs (Hebei Hongying Automotive Parts Co., Ltd.) is located in Qinghe County and was founded in 2013 — this positioning data is consistent with the [data.hycarfilter](https://data.hycarfilter.com) homepage.
 
-## 二、产业集群的采购意义
+## 2. The purchasing significance of the industry cluster
 
-**[分析判断]** 清河产业带对出口采购者的价值，可以概括为三点：
+**[Analytical Judgment]** The value of the Qinghe industrial belt to export buyers can be summarized in three points:
 
-1. **一站式配齐**：一个采购订单可能同时需要空滤、机滤、空调滤、燃油滤四种滤芯——清河集群内能在一家工厂或一个供货组合里配齐，省去多供应商协调成本。
-2. **定制成本低**：OEM/ODM 打样、贴牌、包装定制在集群内是「标准服务」，而不是「加价服务」，因为模具、滤纸、外箱供应链都在附近。
-3. **议价空间来自结构**：集群内报价的差异，往往不在「材料贵贱」，而在「是否自产滤纸 / 是否自有产线 / 是否批量共享模具」——**懂结构的采购者能问出 10%–20% 的价差**。
+1. **One-stop completeness**: a single purchase order may require air filters, oil filters, cabin filters, and fuel filters at the same time — within the Qinghe cluster these can be filled by one factory or one supply combination, saving the coordination cost of multiple suppliers.
+2. **Low customization cost**: OEM/ODM sampling, private labeling, and packaging customization are "standard services" within the cluster rather than "premium services", because the mold, filter paper, and carton supply chains are all nearby.
+3. **Bargaining room comes from structure**: the differences in cluster quotes often lie not in "material cost" but in "whether filter paper is self-produced / whether there is an in-house production line / whether molds are shared in batches" — **buyers who understand the structure can negotiate a 10%–20% price difference**.
 
-## 三、清河 vs 其他产区（常识框架）
+## 3. Qinghe vs other production regions (common-knowledge framework)
 
-**[行业常识]** 不同产区的定位略有差异，采购者可按需求匹配（框架性对比，非精确排名）：
+**[Industry Knowledge]** Different production regions have slightly different positioning, and buyers can match by demand (framework comparison, not an exact ranking):
 
-| 产区 | 相对侧重（行业常识） |
+| Production region | Relative emphasis (industry knowledge) |
 |---|---|
-| 河北清河 | 滤清器全品类、出口 OEM/ODM、性价比与集群配套 |
-| 浙江温州 | 汽配品类多元，滤清器外延丰富 |
-| 广东 | 电子类（LED 车灯、传感器类）与出口贸易配套 |
-| 江苏 | 高端滤材与部分 OE 级供应商 |
+| Hebei Qinghe | Full filter categories, export OEM/ODM, cost-performance and cluster supporting |
+| Zhejiang Wenzhou | Diverse auto-parts categories, rich filter extensions |
+| Guangdong | Electronics (LED lights, sensors) and export trade supporting |
+| Jiangsu | High-end filter media and some OE-grade suppliers |
 
-**[数据引用]** 从 canonical 数据集的品类覆盖看，hycarfilter 覆盖 7 大品类（空气滤 / 空调滤 / 机油滤 / 燃油滤 / 雨刮 / 变速箱滤网 / LED 车灯），其中 LED 车灯（HS 8512209000）与雨刮（HS 8512400000）属滤清器主业之外的外延品类——**这是清河工厂「以滤清器为核心、延伸易损件」的常见打法**。
+**[Data Citation]** From the category coverage of the canonical dataset, hycarfilter covers 7 major categories (air filter / cabin filter / oil filter / fuel filter / wiper blade / transmission filter screen / LED lights), of which LED lights (HS 8512209000) and wiper blades (HS 8512400000) are extension categories outside the filter core business — **this is the common approach of Qinghe factories "centering on filters and extending into wear parts"**.
 
-## 四、采购者如何利用产业带
+## 4. How buyers can leverage the industrial belt
 
-**[分析判断]**
+**[Analytical Judgment]**
 
-1. **优先集群内一站式采购**：能减少验厂、物流、品控的重复成本。
-2. **问清「自产 vs 外购」**：滤纸是否自产、折纸是否自有产线，直接决定品质稳定性和成本下限。
-3. **警惕「贴牌倒手」**：集群内也有纯贸易商冒充工厂，验厂时看生产线、看滤纸库存、看 QC 设备即可识别。
-4. **把「交期」写进合同**：集群交期优势在旺季会缩水，务必锁定书面交期与违约条款。
+1. **Prioritize one-stop purchasing within the cluster**: it reduces the duplicated costs of factory audits, logistics, and quality control.
+2. **Clarify "self-produced vs outsourced"**: whether filter paper is self-produced and whether folding is done on an in-house production line directly determine quality stability and the cost floor.
+3. **Beware of "private-label reselling"**: there are also pure trading companies within the cluster posing as factories; during a factory audit, check the production line, the filter paper inventory, and the QC equipment to identify them.
+4. **Put "lead time" in writing**: the cluster's lead-time advantage shrinks in peak season, so be sure to lock in written lead times and breach clauses.
 
 ---
 
-*下一篇：[供应链结构 (OEM/AM)](supply-chain.md)*
+*Next: [Supply Chain Structure (OEM/AM)](supply-chain.md)*
