@@ -26,3 +26,5 @@ This section is the core of the market site. Five regional in-depth reports, eac
 - **Africa** sells "ultra-low price + filling parts shortages", suitable for low-end volume and early positioning.
 
 It is recommended to first read the region you **are doing or want to do**, then compare horizontally with other regions, and you will find "the same filter, five ways to sell it".
+
+> **Source these products** — [View the full catalog &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/)

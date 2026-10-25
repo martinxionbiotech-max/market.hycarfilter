@@ -94,3 +94,5 @@ For filter export procurement, the standard flow has six steps: **inquiry → sa
 ---
 
 *Next: [Common Purchasing Pitfalls](common-pitfalls.md)*
+
+> **Start an inquiry** — [Request a quote on hycarfilter.com/contact/ →](https://hycarfilter.com/contact/)

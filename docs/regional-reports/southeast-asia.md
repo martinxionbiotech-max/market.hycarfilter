@@ -59,3 +59,5 @@
 ---
 
 *Next: [Latin America Market Report](latin-america.md)*
+
+> **Source these products** — [View the full catalog &amp; request a quote on hycarfilter.com →](https://hycarfilter.com/products/)

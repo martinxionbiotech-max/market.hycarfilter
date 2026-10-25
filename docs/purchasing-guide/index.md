@@ -25,3 +25,5 @@ Purchasing is the process of "**turning uncertainty into certainty step by step*
 ---
 
 *Next: [Full Export Procurement Flow](export-procurement-flow.md)*
+
+> **Start an inquiry** — [Request a quote on hycarfilter.com/contact/ →](https://hycarfilter.com/contact/)
