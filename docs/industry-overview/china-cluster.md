@@ -15,7 +15,7 @@
 | Full category coverage | Air filters, oil filters, cabin filters, fuel filters, transmission filter screens and other full-category coverage |
 | Flexible lead time | Fast supporting within the cluster; small and medium batch lead times are better than in scattered production regions |
 
-**[Data Citation]** The brand hycarfilter to which this repo belongs (Hebei Hongying Automotive Parts Co., Ltd.) is located in Qinghe County and was founded in 2013 — this positioning data is consistent with the [data.hycarfilter](https://data.hycarfilter.com) homepage.
+**[Data Citation]** The brand hycarfilter to which this repo belongs (Qinghe County Huiying Auto Parts Co., Ltd. / 清河县汇盈汽车零部件有限公司) is located in Qinghe County and was founded in 2013 — this positioning data is consistent with the [data.hycarfilter](https://data.hycarfilter.com) homepage.
 
 ## 2. The purchasing significance of the industry cluster
 
