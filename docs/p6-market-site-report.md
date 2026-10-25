@@ -44,7 +44,7 @@ Checked item by item against the data site's `products.json` (v0.1.0) for consis
 - **Efficiency grades**: air filter 99.0%–99.6% · oil filter 90–95%@20um · fuel filter 95–97%@10um · cabin filter 95%–99.97%H13 · transmission filter screen 90%@40um;
 - **Export fields**: MOQ 200/300/500/1000 · lead time 15/18/20/22/25 days · certification ISO 9001/IATF 16949/CE/RoHS · target markets Europe/Middle East/Russia/Southeast Asia/South America/North America/Africa;
 - **Category division**: 7 categories (air filter/cabin filter/oil filter/fuel filter/wiper blade/transmission filter screen/LED lights) identical in value to the data site;
-- **Brand/origin**: hycarfilter (Qinghe County Huiying Auto Parts Co., Ltd. / 清河县汇盈汽车零部件有限公司, since 2013, Qinghe County) consistent with the data site homepage.
+- **Brand/origin**: hycarfilter (Qinghe County Hongying Auto Parts Co., Ltd. / 清河县宏盈汽车零部件有限公司, since 2013, Qinghe County) consistent with the data site homepage.
 
 **No claimed certification**: certification items uniformly use "standard framework/market entry framework" wording, with no claim of holding any certification; **no fabricated source names** — source attribution layering (industry knowledge/framework reference/data citation/analytical judgment) with no fictitious citations.
 
