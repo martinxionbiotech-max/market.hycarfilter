@@ -1,0 +1,69 @@
+site_name: Hycarfilter Market Insights
+site_description: >-
+  汽车滤清器行业报告与出口市场情报 —— 全球市场 / 区域需求 / 行业趋势 / 采购指南。
+  行业层面分析，与 data 站产品数值、tech 站工艺标准不重叠；中文源碎片原创整合。
+site_url: https://market.hycarfilter.com
+repo_url: https://github.com/martinxionbiotech-max/market.hycarfilter
+repo_name: market.hycarfilter
+
+theme:
+  name: material
+  language: zh
+  palette:
+    scheme: default
+    primary: deep orange
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  version: 0.1.0
+
+nav:
+  - 首页: index.md
+  - 行业概览:
+      - 概览: industry-overview/index.md
+      - 全球市场规模与格局: industry-overview/global-market.md
+      - 中国滤清器产业集群: industry-overview/china-cluster.md
+      - 供应链结构 (OEM/AM): industry-overview/supply-chain.md
+  - 区域市场报告:
+      - 区域总览: regional-reports/index.md
+      - 欧洲: regional-reports/europe.md
+      - 中东: regional-reports/middle-east.md
+      - 东南亚: regional-reports/southeast-asia.md
+      - 拉美: regional-reports/latin-america.md
+      - 非洲: regional-reports/africa.md
+  - 行业信息与趋势:
+      - 趋势总览: industry-trends/index.md
+      - 售后市场 vs OEM: industry-trends/aftermarket-vs-oem.md
+      - 电动化对滤清器需求的影响: industry-trends/ev-impact.md
+      - 电商渠道趋势: industry-trends/ecommerce-channels.md
+      - 反倾销与贸易合规: industry-trends/trade-compliance.md
+  - 采购指南:
+      - 采购指南总览: purchasing-guide/index.md
+      - 出口采购全流程: purchasing-guide/export-procurement-flow.md
+      - 常见采购误区: purchasing-guide/common-pitfalls.md
+  - 行业数据参考表: data-reference/market-data-table.md
