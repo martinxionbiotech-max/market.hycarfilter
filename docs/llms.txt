@@ -1,0 +1,17 @@
+# Hycarfilter Market Insights
+
+> market.hycarfilter.com — Industry overview, regional export market reports, industry trends and a purchasing guide for automotive filters from China's Qinghe cluster. Reference layer for importers and distributors. Main site: https://hycarfilter.com/ · Contact: martin@hycarfilter.com.
+
+## Core pages
+
+- [Home](https://market.hycarfilter.com/): Scope and source-nature labels.
+- [Industry Overview](https://market.hycarfilter.com/industry/): Global filter market, China industry clusters, supply chain structure (OEM vs aftermarket).
+- [Regional Reports](https://market.hycarfilter.com/regional/): Five deep reports — Europe, Middle East, Southeast Asia, Latin America, Africa (demand, channels, competition, buyer decision factors, entry advice).
+- [Industry Trends](https://market.hycarfilter.com/trends/): Aftermarket vs OEM, EV impact, e-commerce channels, trade-compliance topics.
+- [Purchasing Guide](https://market.hycarfilter.com/purchasing/): Export purchasing process and common pitfalls.
+- [Data Reference](https://market.hycarfilter.com/data-reference/): Market-size reference tables (estimates, for reference only).
+
+## Notes
+
+- Market figures are estimates for reference only, not verified statistics.
+- Products and quotes: https://hycarfilter.com/
